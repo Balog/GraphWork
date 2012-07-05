@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.3719913"
      inkscape:cx="210.91763"
-     inkscape:cy="176.57393"
+     inkscape:cy="205.72863"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,12 +93,12 @@
      id="layer1"
      transform="translate(0,-694.48827)">
     <image
-       y="694.05286"
-       x="-0.43542215"
-       id="image2995"
-       xlink:href="file:///C:/Documents%20and%20Settings/Admin/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%D1%8B/%D0%9C%D0%BE%D0%B8/%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%B8%20%D0%B1%D0%B5%D0%BD%D0%B7%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/%D0%A4%D0%BE%D0%BD%20%D1%81%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%D0%BC%D0%B8.tif"
-       height="359.76715"
-       width="377.25998" />
+       y="694.48828"
+       x="-0.72886759"
+       id="image3020"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/Electroinstrument/%D0%A4%D0%BE%D0%BD%20%D1%81%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%D0%BC%D0%B8.tif"
+       height="359.33173"
+       width="377.55341" />
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans"

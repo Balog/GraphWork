@@ -190,7 +190,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.3857112"
      inkscape:cx="372.48417"
-     inkscape:cy="177.35568"
+     inkscape:cy="206.22172"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -231,7 +231,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -312,15 +312,12 @@
          y="1022.3322"
          id="tspan3094">                                                 +38 (099) 718-02-12</tspan></text>
     <image
-       y="694.33441"
-       x="0.59802246"
-       id="image4100"
-       xlink:href="file:///C:/Documents%20and%20Settings/Admin/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/21.06/natali%20013.jpg"
-       height="276.0094"
-       width="378.40424"
-       inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Страница 2.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       y="694.84406"
+       x="0.39174533"
+       id="image3093"
+       xlink:href="file:///D:/GraphWork/ReleaseProjects/21.06/natali%20013.jpg"
+       height="250.42781"
+       width="376.11243" />
     <text
        xml:space="preserve"
        style="font-size:35.76550293px;font-style:normal;font-weight:normal;line-height:50%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"

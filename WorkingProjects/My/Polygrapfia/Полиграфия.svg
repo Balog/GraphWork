@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3719913"
-     inkscape:cx="227.61711"
-     inkscape:cy="176.57393"
+     inkscape:cx="453.71292"
+     inkscape:cy="205.72863"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,12 +77,12 @@
      id="layer1"
      transform="translate(0,-694.48818)">
     <image
-       y="694.11499"
-       x="-3.4226484"
-       id="image3022"
-       xlink:href="file:///C:/Documents%20and%20Settings/Admin/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%D1%8B/%D0%9C%D0%BE%D0%B8/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/%D0%A4%D0%BE%D0%BD.tif"
-       height="358.20096"
-       width="379.41943" />
+       y="694.48816"
+       x="0"
+       id="image3009"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/Polygrapfia/%D0%A4%D0%BE%D0%BD.tif"
+       height="357.87402"
+       width="375.59055" />
     <text
        xml:space="preserve"
        style="font-size:49.03797912999999700px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#e1ff2b;font-family:Sans;-inkscape-font-specification:Sans Bold;stroke-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
