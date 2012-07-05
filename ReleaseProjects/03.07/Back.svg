@@ -30,27 +30,39 @@
        id="path3299"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.51470327px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -257.20427,975.0475 -94.222304,892.35442"
+       id="path4442-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.51470327px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -257.20427,975.0475 -94.222304,892.35442"
+       id="path3043"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4428"
-       id="linearGradient4434"
+       xlink:href="#linearGradient4428-4"
+       id="linearGradient4434-7"
        x1="-1.275548"
        y1="798.02246"
        x2="377.14801"
        y2="798.02246"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.701108,376.71719,206.42823)" />
+       gradientTransform="matrix(0.99297186,0,0,0.70112342,376.71048,208.41601)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4428">
+       id="linearGradient4428-4">
       <stop
          style="stop-color:#0054b7;stop-opacity:1;"
          offset="0"
-         id="stop4430" />
+         id="stop4430-0" />
       <stop
          style="stop-color:#0054b7;stop-opacity:0;"
          offset="1"
-         id="stop4432" />
+         id="stop4432-9" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -62,7 +74,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.3719913"
      inkscape:cx="375.59054"
-     inkscape:cy="182.81994"
+     inkscape:cy="185.23481"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -114,7 +126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -128,137 +140,137 @@
        id="rect4531"
        width="376.82455"
        height="50.565319"
-       x="376.71719"
-       y="880.86572" />
+       x="376.71722"
+       y="882.86584" />
     <rect
-       style="fill:url(#linearGradient4434);fill-opacity:1;stroke:#ffffff;stroke-width:0.9154951;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:url(#linearGradient4434-7);fill-opacity:1;stroke:#ffffff;stroke-width:0.91228235;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4426"
-       width="377.3302"
-       height="146.15025"
-       x="375.98831"
-       y="692.85297" />
+       width="374.67828"
+       height="146.15347"
+       x="375.98672"
+       y="694.8515" />
     <rect
        style="fill:#d40000;fill-opacity:1;stroke:#782c00;stroke-width:0.59399998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4529"
        width="375.36682"
        height="43.003189"
-       x="376.71719"
-       y="838.59143" />
-    <image
-       y="751.87677"
-       x="391.29453"
-       id="image3886"
-       xlink:href="file:///C:/Documents%20and%20Settings/Admin/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%D1%8B/%D0%9C%D0%BE%D0%B8/%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%BA%D1%83%D0%BF/%D0%90%D0%B2%D1%82%D0%BE2.tif"
-       height="86.696663"
-       width="150.44876" />
+       x="376.71722"
+       y="840.59155" />
     <text
        xml:space="preserve"
        style="font-size:37.01804352px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
-       x="485.63626"
-       y="706.17834"
+       x="485.63757"
+       y="707.79126"
        id="text3889"
        sodipodi:linespacing="125%"
        transform="scale(0.80642358,1.2400431)"><tspan
          style="stroke-width:1"
          sodipodi:role="line"
          id="tspan3891"
-         x="485.63626"
-         y="706.17834">ПОКУПКА  Б/У  АВТО</tspan></text>
+         x="485.63757"
+         y="707.79126">ПОКУПКА  Б/У  АВТО</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:39.71819687px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#242178;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
-       x="486.147"
-       y="794.67914"
+       x="486.14636"
+       y="796.40973"
        id="text3889-8"
        sodipodi:linespacing="125%"
        transform="scale(0.86524538,1.1557415)"><tspan
          sodipodi:role="line"
          id="tspan3891-8"
-         x="486.147"
-         y="794.67914"
+         x="486.14636"
+         y="796.40973"
          style="fill:#242178;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1">(095) 620-79-84</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:43.33454514px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b70000;fill-opacity:1;stroke:#ffffff;stroke-width:1.26615512;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
        x="568.34631"
-       y="628.27863"
+       y="629.95856"
        id="text3914"
        sodipodi:linespacing="125%"
        transform="scale(0.83995892,1.1905344)"><tspan
          sodipodi:role="line"
          id="tspan3916"
          x="568.34631"
-         y="628.27863"
+         y="629.95856"
          style="stroke-width:1.26615512">АВТОВЫКУП</tspan></text>
+    <image
+       y="752.26379"
+       x="391.29456"
+       id="image3029"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/Avtovikup/%D0%90%D0%B2%D1%82%D0%BE2.tif"
+       height="86.133583"
+       width="145.8437" />
     <g
        id="g4455"
-       transform="matrix(0.4684747,0,0,0.47016418,386.1613,382.86845)"
-       style="fill:#ff1414;fill-opacity:1;stroke:#feffae;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+       transform="matrix(0.49301739,0,0,0.49479538,385.84942,367.8197)"
+       style="fill:#ff1414;fill-opacity:1;stroke:#410a00;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
       <text
          transform="translate(280.61402,-188.04783)"
          sodipodi:linespacing="125%"
          id="text4436"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff1414;fill-opacity:1;stroke:#feffae;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff1414;fill-opacity:1;stroke:#410a00;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans"
          xml:space="preserve"><textPath
            id="textPath4444"
-           xlink:href="#path4442">Надежно </textPath></text>
+           xlink:href="#path4442-1">Надежно </textPath></text>
       <text
          transform="translate(298.83571,-155.24879)"
          sodipodi:linespacing="125%"
          id="text4448"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff1414;fill-opacity:1;stroke:#feffae;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff1414;fill-opacity:1;stroke:#410a00;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
          xml:space="preserve"><textPath
            id="textPath4452"
-           xlink:href="#path4442"><tspan
-   style="fill:#ff1414;fill-opacity:1;stroke:#feffae;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           xlink:href="#path4442-1"><tspan
+   style="fill:#ff1414;fill-opacity:1;stroke:#410a00;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    id="tspan4450">и быстро</tspan></textPath></text>
     </g>
     <text
        xml:space="preserve"
        style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
        x="555.88263"
-       y="759.94757"
+       y="761.94769"
        id="text4462"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4466"
          style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
          x="555.88263"
-         y="759.94757">Автомобильное агентство:</tspan><tspan
+         y="761.94769">Автомобильное агентство:</tspan><tspan
          sodipodi:role="line"
          style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
          x="555.88263"
-         y="775.0528"
+         y="777.05292"
          id="tspan4472">Покупка б/у автомобилей</tspan><tspan
          sodipodi:role="line"
          style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
          x="555.88263"
-         y="790.15796"
+         y="792.15808"
          id="tspan4478">Погашение кредитов за</tspan><tspan
          sodipodi:role="line"
          style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
          x="555.88263"
-         y="805.26318"
+         y="807.26331"
          id="tspan4480">авто</tspan><tspan
          sodipodi:role="line"
          style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
          x="555.88263"
-         y="820.36841"
+         y="822.36853"
          id="tspan4484">Покупка авто после ДТП</tspan><tspan
          sodipodi:role="line"
          style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
          x="555.88263"
-         y="835.47357"
+         y="837.47369"
          id="tspan4486">Самые выгодные цены</tspan><tspan
          sodipodi:role="line"
          style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
          x="555.88263"
-         y="850.5788"
+         y="852.57892"
          id="tspan4482" /><tspan
          sodipodi:role="line"
          id="tspan4468"
          x="555.88263"
-         y="865.68396" /></text>
+         y="867.68408" /></text>
     <path
        sodipodi:type="star"
        style="fill:#f5ff23;fill-opacity:1;stroke:#000000;stroke-width:2.64408731;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -274,7 +286,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 180.75917,176.38596 -15.37257,8.72212 -15.23987,8.95198 0.1327,-17.6741 -0.1327,-17.6741 15.23987,8.95197 z"
-       transform="matrix(0.2269214,0,0,0.2269214,509.72739,730.05217)"
+       transform="matrix(0.2269214,0,0,0.2269214,509.72741,732.05225)"
        inkscape:transform-center-x="0.049865069"
        inkscape:transform-center-y="-0.044788314" />
     <path
@@ -292,7 +304,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 180.75917,176.38596 -15.37257,8.72212 -15.23987,8.95198 0.1327,-17.6741 -0.1327,-17.6741 15.23987,8.95197 z"
-       transform="matrix(0.2269214,0,0,0.2269214,509.72739,746.62953)"
+       transform="matrix(0.2269214,0,0,0.2269214,509.72741,748.62961)"
        inkscape:transform-center-x="0.049865069"
        inkscape:transform-center-y="-0.044788314" />
     <path
@@ -310,7 +322,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 180.75917,176.38596 -15.37257,8.72212 -15.23987,8.95198 0.1327,-17.6741 -0.1327,-17.6741 15.23987,8.95197 z"
-       transform="matrix(0.2269214,0,0,0.2269214,509.72739,776.5131)"
+       transform="matrix(0.2269214,0,0,0.2269214,509.72741,778.51318)"
        inkscape:transform-center-x="0.049865069"
        inkscape:transform-center-y="-0.044788314" />
     <path
@@ -328,7 +340,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 180.75917,176.38596 -15.37257,8.72212 -15.23987,8.95198 0.1327,-17.6741 -0.1327,-17.6741 15.23987,8.95197 z"
-       transform="matrix(0.2269214,0,0,0.2269214,509.72739,792.00591)"
+       transform="matrix(0.2269214,0,0,0.2269214,509.72741,794.00599)"
        inkscape:transform-center-x="0.049865069"
        inkscape:transform-center-y="-0.044788314" />
   </g>

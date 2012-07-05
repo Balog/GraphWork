@@ -87,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -117,13 +117,6 @@
        height="43.003189"
        x="0"
        y="839.53284" />
-    <image
-       y="752.81818"
-       x="14.577352"
-       id="image3886"
-       xlink:href="file:///C:/Documents%20and%20Settings/Admin/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%D1%8B/%D0%9C%D0%BE%D0%B8/%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%BA%D1%83%D0%BF/%D0%90%D0%B2%D1%82%D0%BE2.tif"
-       height="86.696663"
-       width="150.44876" />
     <text
        xml:space="preserve"
        style="font-size:37.01804351999999900px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffcc00;fill-opacity:1;stroke:#000000;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy';stroke-opacity:1"
@@ -168,6 +161,13 @@
        id="path4442"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <image
+       y="751.20508"
+       x="14.577352"
+       id="image3029"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/Avtovikup/%D0%90%D0%B2%D1%82%D0%BE2.tif"
+       height="86.133583"
+       width="145.8437" />
     <g
        id="g4455"
        transform="matrix(0.49301739,0,0,0.49479538,9.1322153,366.76099)"
