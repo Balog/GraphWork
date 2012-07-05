@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="325.98425"
+   height="184.25197"
+   id="svg3016"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Визитка 1.svg"
+   inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Макеты\Мои\Визитка РБЦ\Визитка 1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs3018" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8843187"
+     inkscape:cx="210.29555"
+     inkscape:cy="83.002205"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="1052.36px"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="14.328786,184.15144"
+       id="guide3026" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0.53069579,170.35335"
+       id="guide3055" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-27.596181,13.798091"
+       id="guide3057" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="312.04912,170.35335"
+       id="guide3059" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3021">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-868.11019)">
+    <rect
+       style="opacity:0.375;fill:#242178;fill-opacity:1;stroke:none;display:none"
+       id="rect3028"
+       width="425.82224"
+       height="155.90552"
+       x="-35.859974"
+       y="882.28345" />
+    <rect
+       style="fill:#242178;fill-opacity:1;stroke:none;display:none"
+       id="rect3028-1"
+       width="297.63779"
+       height="245.62006"
+       x="14.173228"
+       y="835.08856" />
+    <image
+       y="868.09406"
+       x="-4.1299779e-007"
+       id="image3069"
+       xlink:href="file:///C:/Documents%20and%20Settings/Admin/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%D1%8B/%D0%9C%D0%BE%D0%B8/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0%20%D0%A0%D0%91%D0%A6/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0%20%D0%A0%D0%91%D0%A6%20(9.03.12)%202.tif"
+       height="184.26811"
+       width="326.66089" />
+  </g>
+</svg>
