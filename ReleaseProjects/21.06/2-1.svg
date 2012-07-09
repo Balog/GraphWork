@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="2-1.svg"
-   inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Страница 2.png"
+   inkscape:export-filename="D:\GraphWork\ReleaseProjects\21.06\Страница 2.png"
    inkscape:export-xdpi="300.05072"
    inkscape:export-ydpi="300.05072">
   <defs
@@ -231,7 +231,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
