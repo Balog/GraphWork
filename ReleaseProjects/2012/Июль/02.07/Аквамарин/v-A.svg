@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="325.98425"
+   height="184.25197"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="v-A.svg"
+   inkscape:export-filename="D:\GraphWork\ReleaseProjects\02.07\Аквамарин\Proba1.png"
+   inkscape:export-xdpi="120.05094"
+   inkscape:export-ydpi="120.05094">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5314">
+      <stop
+         style="stop-color:#fff600;stop-opacity:1;"
+         offset="0"
+         id="stop5316" />
+      <stop
+         style="stop-color:#fff600;stop-opacity:0;"
+         offset="1"
+         id="stop5318" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3874"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff5100;stop-opacity:1;"
+         offset="0"
+         id="stop3876" />
+    </linearGradient>
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4120"
+       d="M 21.850393,967.02754 C 90.517338,922.7373 159.78008,915.68429 230.01968,969.68502 l 0,0"
+       style="fill:none;stroke:none" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4135"
+       d="m 65.55118,1036.122 c 44.54751,15.6145 84.48778,15.4875 119.58661,-1.1811"
+       style="fill:none;stroke:none" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 65.55118,1036.122 c 44.54751,15.6145 84.48778,15.4875 119.58661,-1.1811"
+       id="path4135-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:none"
+       d="M 21.850393,967.02754 C 90.517338,922.7373 159.78008,915.68429 230.01968,969.68502 l 0,0"
+       id="path4120-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <filter
+       id="filter3585"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-.25"
+       y="-.25">
+      <feGaussianBlur
+         id="feGaussianBlur3587"
+         in="SourceAlpha"
+         stdDeviation="3"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix3589"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 " />
+      <feOffset
+         id="feOffset3591"
+         in="bluralpha"
+         dx="2"
+         dy="3"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge3593">
+        <feMergeNode
+           id="feMergeNode3595"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode3597"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5314"
+       id="linearGradient5320"
+       x1="13.216291"
+       y1="902.4147"
+       x2="311.58565"
+       y2="902.4147"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4173268"
+     inkscape:cx="183.60622"
+     inkscape:cy="124.14133"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:snap-from-guide="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,14.173228"
+       orientation="0,1"
+       id="guide2986" />
+    <sodipodi:guide
+       position="311.81102,297.19626"
+       orientation="1,0"
+       id="guide2988" />
+    <sodipodi:guide
+       position="325.98425,170.07874"
+       orientation="0,1"
+       id="guide2990" />
+    <sodipodi:guide
+       position="14.173228,184.25197"
+       orientation="1,0"
+       id="guide2992" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="62.013392,-31.006696"
+       id="guide5418" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="75.469128,-187.21024"
+       id="guide5420" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-868.11021)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.60000001999999997;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3043"
+       width="327.61792"
+       height="185.45514"
+       x="-0.58503199"
+       y="-0.033112563"
+       transform="translate(0,868.11021)"
+       inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Аквамарин 1_1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       y="868.11023"
+       x="-1.0376039"
+       id="image3858"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B/%D0%92%D0%BE%D0%BB%D0%BD%D0%B0.jpeg"
+       height="184.94711"
+       width="327.71414"
+       inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Аквамарин 1_1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:SmartyCond;-inkscape-font-specification:SmartyCond"
+       x="459.83514"
+       y="764.52643"
+       id="text2994"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2996"
+         x="459.83514"
+         y="764.52643">1 сторона</tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="784.52643"
+         id="tspan2998" /><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="804.52643"
+         id="tspan3000">В Крым на автобусе  от 199 грн</tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="824.52643"
+         id="tspan3002" /><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="844.52643"
+         id="tspan3004">Тел.  0509174483, 0509168776</tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="864.52643"
+         id="tspan3006">Донецк, пр. Мира 8, оф.1</tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="884.52643"
+         id="tspan3008">Фирма &quot;Аквамарин&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="904.52643"
+         id="tspan3010" /><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="924.52643"
+         id="tspan3012" /><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="944.52643"
+         id="tspan3014">2 сторона</tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="964.52643"
+         id="tspan3016" /><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="984.52643"
+         id="tspan3018">Азовское море</tspan><tspan
+         sodipodi:role="line"
+         x="461.31952"
+         y="1004.5264"
+         id="tspan3020">День Конституции  </tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="1024.5265"
+         id="tspan3022">с 28.06  по  01.07</tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="1044.5265"
+         id="tspan3024">3 дня  -  745 грн</tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="1064.5265"
+         id="tspan3026">4 дня  -  945 грн.</tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="1084.5265"
+         id="tspan3028" /><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="1104.5265"
+         id="tspan3030">Тел.  0509174483, 0509168776</tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="1124.5265"
+         id="tspan3032">Донецк, пр. Мира 8, оф.1</tspan><tspan
+         sodipodi:role="line"
+         x="459.83514"
+         y="1144.5265"
+         id="tspan3034">Фирма &quot;Аквамарин&quot;</tspan></text>
+    <g
+       id="g4247-0"
+       transform="matrix(0.43774572,0,0,0.44119592,39.866018,588.65476)"
+       inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Аквамарин 1_1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="982.2417"
+         x="-58.693413"
+         height="2.5970538"
+         width="341.85706"
+         id="rect4241-6"
+         style="fill:#00ffff;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#00ffff;fill-opacity:1;stroke:none"
+         id="rect4243-3"
+         width="341.85706"
+         height="2.5970538"
+         x="-58.693413"
+         y="988.2417" />
+      <rect
+         y="994.2417"
+         x="-58.693413"
+         height="2.5970538"
+         width="341.85706"
+         id="rect4245-2"
+         style="fill:#00ffff;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4237-0"
+         y="997.74982"
+         x="-51.817646"
+         style="font-size:69.83122253px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:#ffffff;stroke-width:1.41441691;stroke-miterlimit:4;stroke-dasharray:none;font-family:BenguiatGothicCTT;-inkscape-font-specification:BenguiatGothicCTT"
+         xml:space="preserve"><tspan
+           style="font-size:69.83122253px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#ffffff;stroke-width:1.41441691;stroke-miterlimit:4;stroke-dasharray:none;font-family:BenguiatGothicCTT;-inkscape-font-specification:BenguiatGothicCTT"
+           y="997.74982"
+           x="-51.817646"
+           id="tspan4239-6"
+           sodipodi:role="line">Аквамарин</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9.50194263000000030px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fff600;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+       x="53.712265"
+       y="1006.4803"
+       id="text4361-1"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99608227,1.0039331)"
+       inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Аквамарин 1_1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4363-5"
+         x="53.712265"
+         y="1006.4803">туристический центр</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.85936165px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:SmartyCond;-inkscape-font-specification:SmartyCond"
+       x="29.513395"
+       y="1032.5675"
+       id="text4391"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99608227,1.0039331)"
+       inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Аквамарин 1_1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4393"
+         x="29.513395"
+         y="1032.5675"
+         style="fill:#ffffff;fill-opacity:1">www.akvamarin.dn.ua</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.64431953px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:SmartyCond;-inkscape-font-specification:SmartyCond"
+       x="178.51131"
+       y="1007.733"
+       id="text3428"
+       sodipodi:linespacing="110%"
+       transform="scale(0.98141272,1.0189393)"
+       inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Аквамарин 1_1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="178.51131"
+         y="1007.733"
+         id="tspan3432">Донецк, пр. Мира 8, оф.1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3451"
+       y="913.95941"
+       x="162.00488"
+       style="font-size:41.23164367999999800px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:SmartyCond;-inkscape-font-specification:SmartyCond Heavy"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Аквамарин 1_1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         id="tspan3455"
+         y="913.95941"
+         x="162.00488"
+         sodipodi:role="line"
+         style="font-size:41.23164367999999800px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;font-family:SmartyCond;-inkscape-font-specification:SmartyCond Heavy">В Крым на автобусе</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.07289124px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+       x="167.03053"
+       y="954.3952"
+       id="text3846"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Аквамарин 1_1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3848"
+         x="167.03053"
+         y="954.3952"
+         style="font-size:31.07289124px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;font-family:Calibri;-inkscape-font-specification:Calibri">от 199 грн</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.69950294px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="154.03236"
+       y="983.48254"
+       id="text3833"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="154.03236"
+         y="983.48254"
+         id="tspan3837">Тел.  0509174483</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.70000076px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="202.35797"
+       y="1003.7563"
+       id="text3841"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3843"
+         x="202.35797"
+         y="1003.7563">0509168776</tspan></text>
+  </g>
+</svg>
