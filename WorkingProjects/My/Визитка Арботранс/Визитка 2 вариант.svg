@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="325.98425"
+   height="184.25197"
+   id="svg3016"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Визитка 2 вариант.svg"
+   inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Визитка Арботранс\2 вариант.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs3018">
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect3921"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 14.259827,13.509312 66.796028,0"
+       bendpath2="m 81.055855,13.509312 0,43.905254"
+       bendpath3="m 14.259827,57.414566 66.796028,0"
+       bendpath4="m 14.259827,13.509312 0,43.905254" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect3919"
+       is_visible="true"
+       bendpath="m 14.259827,35.461939 66.796028,0"
+       prop_scale="1"
+       scale_y_rel="false"
+       vertical="false" />
+    <inkscape:path-effect
+       effect="sketch"
+       id="path-effect3917"
+       is_visible="true"
+       nbiter_approxstrokes="5"
+       strokelength="100"
+       strokelength_rdm="0.3;1"
+       strokeoverlap="0.3"
+       strokeoverlap_rdm="0.3;1"
+       ends_tolerance="0.1;1"
+       parallel_offset="5;1"
+       tremble_size="5;1"
+       tremble_frequency="1"
+       nbtangents="5"
+       tgt_places_rdmness="1;1"
+       tgtscale="10"
+       tgtlength="100"
+       tgtlength_rdm="0.3;1" />
+    <inkscape:path-effect
+       effect="vonkoch"
+       id="path-effect3915"
+       is_visible="true"
+       ref_path="m 14.259827,35.461939 66.796028,0"
+       generator="m 14.259827,57.414566 22.265343,0 m 22.265342,0 22.265343,0"
+       similar_only="false"
+       nbgenerations="1"
+       drawall="true"
+       maxComplexity="1000" />
+    <inkscape:path-effect
+       effect="rough_hatches"
+       id="path-effect3913"
+       is_visible="true"
+       direction="47.657841,30.461939 , 16.699007,0"
+       dist_rdm="75;1"
+       growth="0"
+       do_bend="true"
+       bender="47.657841,35.461939 , 5,0"
+       bottom_edge_variation="4.3905254;1"
+       top_edge_variation="4.3905254;1"
+       bottom_tgt_variation="0;1"
+       top_tgt_variation="0;1"
+       scale_bf="1"
+       scale_bb="1"
+       scale_tf="1"
+       scale_tb="1"
+       top_smth_variation="0;1"
+       bottom_smth_variation="0;1"
+       fat_output="true"
+       stroke_width_top="1"
+       stroke_width_bottom="1"
+       front_thickness="1"
+       back_thickness="0.25" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3911"
+       is_visible="true"
+       pattern="M 0,0 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="knot"
+       id="path-effect3909"
+       is_visible="true"
+       interruption_width="3"
+       prop_to_stroke_width="true"
+       add_stroke_width="true"
+       add_other_stroke_width="true"
+       switcher_size="15"
+       crossing_points_vector="" />
+    <filter
+       id="filter5352"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5354"
+         flood-opacity="0.773"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5356"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5358"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset5360"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite5362"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5364"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5366"
+         flood-opacity="0.773"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5368"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5370"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset5372"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite5374"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3764"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3766"
+         flood-opacity="0.716"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3768"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3770"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset3772"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite3774"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3776"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3778"
+         flood-opacity="0.716"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3780"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3782"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset3784"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite3786"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3788"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3790"
+         flood-opacity="0.716"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3792"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3794"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset3796"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite3798"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3800"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3802"
+         flood-opacity="0.716"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3804"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3806"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset3808"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite3810"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3812"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3814"
+         flood-opacity="0.716"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3816"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3818"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset3820"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite3822"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3824"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3826"
+         flood-opacity="0.716"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3828"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3830"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset3832"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite3834"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3971"
+       inkscape:label="Zebra"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Irregular vertical dark stripes (loses object's own color)"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3973"
+         result="result0"
+         values="0.15 0.3 0.05 0 0.5 0.15 0.3 0.05 0 0.5 0.15 0.3 0.05 0 0.5 0 0 0 1 0" />
+      <feTurbulence
+         id="feTurbulence3975"
+         baseFrequency="0.078 0.012"
+         numOctaves="1" />
+      <feColorMatrix
+         id="feColorMatrix3977"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 -0.8"
+         result="result1" />
+      <feComposite
+         id="feComposite3979"
+         in2="result0"
+         operator="atop" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6648291"
+     inkscape:cx="224.16469"
+     inkscape:cy="95.084347"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="1052.36px"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-global="false"
+     inkscape:bbox-paths="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="14.328786,184.15144"
+       id="guide3026" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0.53069579,170.35335"
+       id="guide3055" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-27.596181,13.798091"
+       id="guide3057" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="312.04912,170.35335"
+       id="guide3059" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3021">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-868.11019)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3029"
+       width="325.18777"
+       height="183.33653"
+       x="0.5306958"
+       y="868.74139" />
+    <rect
+       style="opacity:0.375;fill:#242178;fill-opacity:1;stroke:none;display:none"
+       id="rect3028"
+       width="425.82224"
+       height="155.90552"
+       x="-35.859974"
+       y="882.28345" />
+    <rect
+       style="fill:#242178;fill-opacity:1;stroke:none;display:none"
+       id="rect3028-1"
+       width="297.63779"
+       height="245.62006"
+       x="14.173228"
+       y="835.08856" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.98264122px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua Bold"
+       x="114.42001"
+       y="888.77515"
+       id="text3020"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3022"
+         x="114.42001"
+         y="888.77515">Чумак Роман Викторович</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.98264122px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua Bold"
+       x="144.70183"
+       y="896.216"
+       id="text3024"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3026"
+         x="144.70183"
+         y="896.216">Директор</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.71942711000000200px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua;filter:url(#filter3824)"
+       x="60.002285"
+       y="941.37506"
+       id="text3799"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3801"
+         x="60.002285"
+         y="941.37506">Транспортная компания</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.82023429999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua;filter:url(#filter3812)"
+       x="86.323471"
+       y="965.92426"
+       id="text3803"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3805"
+         x="86.323471"
+         y="965.92426">Арбо Транс</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.19260597000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cambria;-inkscape-font-specification:Cambria;filter:url(#filter3788)"
+       x="15.91062"
+       y="986.97675"
+       id="text3807"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3809"
+         x="15.91062"
+         y="986.97675">Грузоперевозки</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.19260597000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cambria;-inkscape-font-specification:Cambria;filter:url(#filter3800)"
+       x="179.11566"
+       y="986.97675"
+       id="text3811"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3813"
+         x="179.11566"
+         y="986.97675">Сыпучие материалы</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.87807941px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua"
+       x="246.45389"
+       y="885.91077"
+       id="text3821"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="246.45389"
+         y="885.91077"
+         id="tspan3831">Email: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.87807941px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua"
+       x="261.7767"
+       y="885.91852"
+       id="text3846"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3848"
+         x="261.7767"
+         y="885.91852"
+         style="font-size:4.87807941px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua">arbo-trans@mail.ru</tspan><tspan
+         sodipodi:role="line"
+         x="261.7767"
+         y="892.01605"
+         id="tspan3850"
+         style="font-size:4.87807941px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua">arbo-trans@rambler.ru</tspan><tspan
+         sodipodi:role="line"
+         x="261.7767"
+         y="898.11371"
+         id="tspan3852"
+         style="font-size:4.87807941px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua">http://arbotrans.dn.ua</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.87807941px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua"
+       x="237.33629"
+       y="903.90723"
+       id="text3856"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3858"
+         x="237.33629"
+         y="903.90723">Донецк 83017 пр. Мира 42 оф. 43</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.64981651000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua;filter:url(#filter3776)"
+       x="102.72626"
+       y="1010.4418"
+       id="text3835"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="102.72626"
+         y="1010.4418"
+         id="tspan3839"
+         style="font-size:18.64981651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua">(062) 387 04 09</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5204"
+       y="1030.5852"
+       x="102.47128"
+       style="font-size:18.64981651000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua;filter:url(#filter3764)"
+       xml:space="preserve"><tspan
+         style="font-size:18.64981651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua"
+         id="tspan5206"
+         y="1030.5852"
+         x="102.47128"
+         sodipodi:role="line">(095) 40 40 777</tspan></text>
+    <image
+       y="882.00879"
+       x="14.859482"
+       id="image3017"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0%20%D0%90%D1%80%D0%B1%D0%BE%D1%82%D1%80%D0%B0%D0%BD%D1%81/Logo.png"
+       height="43.724415"
+       width="66.188347" />
+  </g>
+</svg>
