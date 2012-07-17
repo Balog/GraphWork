@@ -329,38 +329,6 @@
          operator="over"
          result="composite2" />
     </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient15964-7"
-       id="linearGradient15970-1"
-       x1="168.76125"
-       y1="156.6951"
-       x2="168.76125"
-       y2="3.8117156"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.0069324,0,867.83357)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient15964-7">
-      <stop
-         style="stop-color:#000b7b;stop-opacity:1;"
-         offset="0"
-         id="stop15966-4" />
-      <stop
-         style="stop-color:#000b7b;stop-opacity:0;"
-         offset="1"
-         id="stop15968-0" />
-    </linearGradient>
-    <linearGradient
-       y2="3.8117156"
-       x2="168.76125"
-       y1="156.6951"
-       x1="168.76125"
-       gradientTransform="matrix(1,0,0,1.0069324,0.04853449,866.11355)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3075"
-       xlink:href="#linearGradient15964-7"
-       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -421,19 +389,12 @@
      id="layer1"
      transform="translate(0,-868.11022)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#fffffb;stroke-width:0.12630574;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.27962611"
-       id="rect4355"
-       width="326.83966"
-       height="185.74165"
-       x="-0.054507114"
-       y="866.55096" />
-    <rect
-       style="fill:url(#linearGradient3075);fill-opacity:1;stroke:none"
+       style="fill:url(#linearGradient15970);fill-opacity:1;stroke:none"
        id="rect15962"
        width="326.3779"
        height="109.01246"
-       x="0.048540503"
-       y="906.29285" />
+       x="0"
+       y="908.01288" />
     <rect
        style="opacity:0.375;fill:#242178;fill-opacity:1;stroke:none;display:none"
        id="rect3028"
@@ -796,5 +757,16 @@
          id="tspan3849"
          x="226.52332"
          y="1036.5801">ул. Бехтерева 16 б</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.04172611px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="213.16373"
+       y="1023.444"
+       id="text4339"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4341"
+         x="213.16373"
+         y="1023.444">LuxAvto2012@mail.ru</tspan></text>
   </g>
 </svg>
