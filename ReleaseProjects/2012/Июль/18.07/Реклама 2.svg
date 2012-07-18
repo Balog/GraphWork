@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="751.18109"
+   height="357.87399"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Реклама 2.svg"
+   inkscape:export-filename="D:\GraphWork\ReleaseProjects\2012\Июль\18.07\Реклама 2.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.51470327px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -257.20427,975.0475 -94.222304,892.35442"
+       id="path4442"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.51470327px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -257.20427,975.0475 -94.222304,892.35442"
+       id="path3032"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4428"
+       id="linearGradient4434"
+       x1="-1.275548"
+       y1="798.02246"
+       x2="377.14801"
+       y2="798.02246"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.701108,376.46264,207.67016)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4428">
+      <stop
+         style="stop-color:#0054b7;stop-opacity:1;"
+         offset="0"
+         id="stop4430" />
+      <stop
+         style="stop-color:#0054b7;stop-opacity:0;"
+         offset="1"
+         id="stop4432" />
+    </linearGradient>
+    <filter
+       id="filter3930"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3932"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3934"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3936"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset3938"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3940"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4140"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4142"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4144"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4146"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset4148"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite4150"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4152"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4154"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4156"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4158"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset4160"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite4162"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4164"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4166"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4168"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4170"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset4172"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite4174"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4178"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4180"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4182"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4184"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset4186"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite4188"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9402887"
+     inkscape:cx="555.28419"
+     inkscape:cy="259.77026"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-126.0941,342.56777"
+       id="guide3871" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-115.16108,15.30622"
+       id="guide3873" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="14.577352,361.51833"
+       id="guide3875" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="360.0606,365.16267"
+       id="guide3877" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="391.4019,342.56777"
+       id="guide3775" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="737.61401,342.56777"
+       id="guide3777" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="376.09568,245.62838"
+       id="guide3434" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-694.48818)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.27962611"
+       id="rect4176"
+       width="379.32498"
+       height="362.83261"
+       x="376.23267"
+       y="694.16803" />
+    <rect
+       style="fill:#ff4cff;fill-opacity:1;stroke:none"
+       id="rect3110"
+       width="249.63715"
+       height="120.26315"
+       x="376.09567"
+       y="933.19232" />
+    <image
+       y="688.07751"
+       x="-0.21338034"
+       id="image3019"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/%D1%81%D0%BF%D1%83%D1%82%20%D1%86%D0%B8%D1%84%D1%80%20%D1%82%D0%B2.png"
+       height="364.32571"
+       width="376.20615" />
+    <rect
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.62333024;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4531"
+       width="376.82455"
+       height="50.565319"
+       x="376.46262"
+       y="882.62305" />
+    <rect
+       style="fill:url(#linearGradient4434);fill-opacity:1;stroke:#ffffff;stroke-width:0.9154951;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4426"
+       width="377.3302"
+       height="146.15025"
+       x="375.73373"
+       y="694.09491" />
+    <rect
+       style="fill:#d40000;fill-opacity:1;stroke:#782c00;stroke-width:0.59399998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4529"
+       width="375.36682"
+       height="43.003189"
+       x="376.46262"
+       y="840.34875" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.01804352px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+       x="485.32187"
+       y="707.59546"
+       id="text3889"
+       sodipodi:linespacing="125%"
+       transform="scale(0.80642358,1.2400431)"><tspan
+         style="stroke-width:1"
+         sodipodi:role="line"
+         id="tspan3891"
+         x="485.32187"
+         y="707.59546">ПОКУПКА  Б/У  АВТО</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:39.71819687px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#242178;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+       x="485.85205"
+       y="796.19977"
+       id="text3889-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.86524538,1.1557415)"><tspan
+         sodipodi:role="line"
+         id="tspan3891-8"
+         x="485.85205"
+         y="796.19977"
+         style="fill:#242178;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1">(095) 620-79-84</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:43.33454514px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b70000;fill-opacity:1;stroke:#ffffff;stroke-width:1.26615512;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+       x="568.04309"
+       y="629.75476"
+       id="text3914"
+       sodipodi:linespacing="125%"
+       transform="scale(0.83995892,1.1905344)"><tspan
+         sodipodi:role="line"
+         id="tspan3916"
+         x="568.04309"
+         y="629.75476"
+         style="stroke-width:1.26615512">АВТОВЫКУП</tspan></text>
+    <image
+       y="752.021"
+       x="391.03995"
+       id="image3029"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/Avtovikup/%D0%90%D0%B2%D1%82%D0%BE2.tif"
+       height="86.133583"
+       width="145.8437" />
+    <g
+       id="g4455"
+       transform="matrix(0.49301739,0,0,0.49479538,385.59486,367.57695)"
+       style="fill:#ff1414;fill-opacity:1;stroke:#410a00;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <text
+         transform="translate(280.61402,-188.04783)"
+         sodipodi:linespacing="125%"
+         id="text4436"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff1414;fill-opacity:1;stroke:#410a00;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><textPath
+           id="textPath4444"
+           xlink:href="#path4442">Надежно </textPath></text>
+      <text
+         transform="translate(298.83571,-155.24879)"
+         sodipodi:linespacing="125%"
+         id="text4448"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff1414;fill-opacity:1;stroke:#410a00;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
+         xml:space="preserve"><textPath
+           id="textPath4452"
+           xlink:href="#path4442"><tspan
+   style="fill:#ff1414;fill-opacity:1;stroke:#410a00;stroke-width:1.20265901;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   id="tspan4450">и быстро</tspan></textPath></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+       x="555.62805"
+       y="761.7049"
+       id="text4462"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4466"
+         style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+         x="555.62805"
+         y="761.7049">Автомобильное агентство:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+         x="555.62805"
+         y="776.81012"
+         id="tspan4472">Покупка б/у автомобилей</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+         x="555.62805"
+         y="791.91528"
+         id="tspan4478">Погашение кредитов за</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+         x="555.62805"
+         y="807.02051"
+         id="tspan4480">авто</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+         x="555.62805"
+         y="822.12573"
+         id="tspan4484">Покупка авто после ДТП</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+         x="555.62805"
+         y="837.2309"
+         id="tspan4486">Самые выгодные цены</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:12.08416176px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+         x="555.62805"
+         y="852.33612"
+         id="tspan4482" /><tspan
+         sodipodi:role="line"
+         id="tspan4468"
+         x="555.62805"
+         y="867.44128" /></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#f5ff23;fill-opacity:1;stroke:#000000;stroke-width:2.64408731;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4488"
+       sodipodi:sides="3"
+       sodipodi:cx="160.35088"
+       sodipodi:cy="176.38596"
+       sodipodi:r1="20.408293"
+       sodipodi:r2="10.071444"
+       sodipodi:arg1="1.7389234e-008"
+       sodipodi:arg2="1.0471975"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 180.75917,176.38596 -15.37257,8.72212 -15.23987,8.95198 0.1327,-17.6741 -0.1327,-17.6741 15.23987,8.95197 z"
+       transform="matrix(0.2269214,0,0,0.2269214,509.47285,716.95999)"
+       inkscape:transform-center-x="0.049865069"
+       inkscape:transform-center-y="-0.044788314" />
+    <path
+       sodipodi:type="star"
+       style="fill:#f5ff23;fill-opacity:1;stroke:#000000;stroke-width:2.64408731;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4488-2"
+       sodipodi:sides="3"
+       sodipodi:cx="160.35088"
+       sodipodi:cy="176.38596"
+       sodipodi:r1="20.408293"
+       sodipodi:r2="10.071444"
+       sodipodi:arg1="1.7389234e-008"
+       sodipodi:arg2="1.0471975"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 180.75917,176.38596 -15.37257,8.72212 -15.23987,8.95198 0.1327,-17.6741 -0.1327,-17.6741 15.23987,8.95197 z"
+       transform="matrix(0.2269214,0,0,0.2269214,509.47285,731.8095)"
+       inkscape:transform-center-x="0.049865069"
+       inkscape:transform-center-y="-0.044788314" />
+    <path
+       sodipodi:type="star"
+       style="fill:#f5ff23;fill-opacity:1;stroke:#000000;stroke-width:2.64408731;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4488-4"
+       sodipodi:sides="3"
+       sodipodi:cx="160.35088"
+       sodipodi:cy="176.38596"
+       sodipodi:r1="20.408293"
+       sodipodi:r2="10.071444"
+       sodipodi:arg1="1.7389234e-008"
+       sodipodi:arg2="1.0471975"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 180.75917,176.38596 -15.37257,8.72212 -15.23987,8.95198 0.1327,-17.6741 -0.1327,-17.6741 15.23987,8.95197 z"
+       transform="matrix(0.2269214,0,0,0.2269214,509.47285,748.38686)"
+       inkscape:transform-center-x="0.049865069"
+       inkscape:transform-center-y="-0.044788314" />
+    <path
+       sodipodi:type="star"
+       style="fill:#f5ff23;fill-opacity:1;stroke:#000000;stroke-width:2.64408731;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4488-5"
+       sodipodi:sides="3"
+       sodipodi:cx="160.35088"
+       sodipodi:cy="176.38596"
+       sodipodi:r1="20.408293"
+       sodipodi:r2="10.071444"
+       sodipodi:arg1="1.7389234e-008"
+       sodipodi:arg2="1.0471975"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 180.75917,176.38596 -15.37257,8.72212 -15.23987,8.95198 0.1327,-17.6741 -0.1327,-17.6741 15.23987,8.95197 z"
+       transform="matrix(0.2269214,0,0,0.2269214,509.47285,778.27043)"
+       inkscape:transform-center-x="0.049865069"
+       inkscape:transform-center-y="-0.044788314" />
+    <path
+       sodipodi:type="star"
+       style="fill:#f5ff23;fill-opacity:1;stroke:#000000;stroke-width:2.64408731;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4488-51"
+       sodipodi:sides="3"
+       sodipodi:cx="160.35088"
+       sodipodi:cy="176.38596"
+       sodipodi:r1="20.408293"
+       sodipodi:r2="10.071444"
+       sodipodi:arg1="1.7389234e-008"
+       sodipodi:arg2="1.0471975"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 180.75917,176.38596 -15.37257,8.72212 -15.23987,8.95198 0.1327,-17.6741 -0.1327,-17.6741 15.23987,8.95197 z"
+       transform="matrix(0.2269214,0,0,0.2269214,509.47285,793.76324)"
+       inkscape:transform-center-x="0.049865069"
+       inkscape:transform-center-y="-0.044788314" />
+    <image
+       y="933.29443"
+       x="375.94336"
+       id="image3107"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/%D0%9A%D0%BE%D1%81%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%20Paris/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0.png"
+       height="104.56359"
+       width="52.617661" />
+    <rect
+       style="fill:#402bff;fill-opacity:1;stroke:none"
+       id="rect3880"
+       width="125.72966"
+       height="119.89872"
+       x="625.73279"
+       y="933.19232"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.75634193000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans;filter:url(#filter4178)"
+       x="680.68616"
+       y="947.15338"
+       id="text3882"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.95567494,0,0,1,31.255601,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3884"
+         x="680.68616"
+         y="947.15338">Выход</tspan><tspan
+         sodipodi:role="line"
+         x="680.68616"
+         y="969.34882"
+         id="tspan3886">рекламы</tspan><tspan
+         sodipodi:role="line"
+         x="680.68616"
+         y="991.54425"
+         id="tspan3888">еженедельно</tspan><tspan
+         sodipodi:role="line"
+         x="680.68616"
+         y="1013.7397"
+         id="tspan3890">тираж</tspan><tspan
+         sodipodi:role="line"
+         x="680.68616"
+         y="1035.9351"
+         id="tspan3892">50000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.47160912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4164);font-family:Arial Narrow;-inkscape-font-specification:Arial Narrow"
+       x="426.68256"
+       y="956.09296"
+       id="text3942"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.117979,0,0,1,-48.661108,1.5162683)"><tspan
+         sodipodi:role="line"
+         id="tspan3944"
+         x="426.68256"
+         y="956.09296">Косметический </tspan><tspan
+         sodipodi:role="line"
+         x="426.68256"
+         y="990.4325"
+         id="tspan3948">кабинет</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32.01255798px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4152);font-family:Pristina;-inkscape-font-specification:Pristina"
+       x="529.52448"
+       y="995.06409"
+       id="text3952"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3954"
+         x="529.52448"
+         y="995.06409">&quot;Paris&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.03144264000000200px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;font-family:Sans;filter:url(#filter4140);stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       x="427.40259"
+       y="1025.697"
+       id="text3956"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3958"
+         x="427.40259"
+         y="1025.697">050-478-25-51</tspan></text>
+  </g>
+</svg>
