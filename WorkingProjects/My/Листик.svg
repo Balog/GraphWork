@@ -14,8 +14,8 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="Листик.pdf"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Листик.svg"
    inkscape:export-filename="D:\Рабочий стол\Листик.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -191,17 +191,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.27152628"
+     inkscape:zoom="0.54305256"
      inkscape:cx="376.12748"
-     inkscape:cy="413.20738"
+     inkscape:cy="517.37509"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:object-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-global="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1" />
@@ -213,7 +213,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -335,7 +335,7 @@
     </g>
     <g
        id="g3887"
-       transform="matrix(2.895667,0,0,2.895667,-883.26065,-1409.1516)"
+       transform="matrix(2.895667,0,0,2.895667,-828.01738,-1447.8219)"
        inkscape:export-filename="D:\Рабочий стол\Листик.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">

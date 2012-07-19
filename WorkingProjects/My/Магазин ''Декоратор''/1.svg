@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="751.18109"
+   height="357.87399"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="1.svg"
+   inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Магазин ''Декоратор''\1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4275">
+      <stop
+         style="stop-color:#6182ff;stop-opacity:1;"
+         offset="0"
+         id="stop4277" />
+      <stop
+         style="stop-color:#7575ff;stop-opacity:0;"
+         offset="1"
+         id="stop4279" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3979-6"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3981-8"
+         flood-opacity="0.8"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3983-5"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3985-7"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset3987-6"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite3989-1"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3997-8"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3999-9"
+         flood-opacity="0.8"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4001-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4003-7"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset4005-9"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite4007-5"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter5038"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5040"
+         flood-opacity="0.8"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5042"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5044"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset5046"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite5048"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5136"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5138"
+         flood-opacity="0.8"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5140"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5142"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset5144"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite5146"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5674"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5676"
+         flood-opacity="0.8"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5678"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5680"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset5682"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite5684"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.7439826"
+     inkscape:cx="564.66977"
+     inkscape:cy="77.710571"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-126.0941,342.56777"
+       id="guide3871" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-115.16108,15.30622"
+       id="guide3873" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="14.577352,361.51833"
+       id="guide3875" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="360.0606,365.16267"
+       id="guide3877" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="391.4019,342.56777"
+       id="guide3775" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="737.61401,342.56777"
+       id="guide3777" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="376.09568,245.62838"
+       id="guide3434" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-694.48818)">
+    <rect
+       style="fill:#ff1616;fill-opacity:1;stroke:#ffffff;stroke-width:0.5207566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.27962611"
+       id="rect5696"
+       width="374.3587"
+       height="154.56868"
+       x="377.68503"
+       y="897.62317"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.39699021000000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3866"
+       width="744.20782"
+       height="352.01593"
+       x="8.7407579"
+       y="701.31"
+       inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\стр 1.png"
+       inkscape:export-xdpi="150.72728"
+       inkscape:export-ydpi="150.72728" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3112"
+       d="m 377.01974,1053.6931 0,-158.63943"
+       style="fill:none;stroke:#000000;stroke-width:1.05814373px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Магазин ''Декоратор''\text5686.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       y="895.90271"
+       x="376.52579"
+       id="image3122"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%20''%D0%94%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80''/%D0%9E%D0%BA%D0%BD%D0%BE.jpg"
+       height="157.12943"
+       width="183.59183"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Магазин ''Декоратор''\text5686.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <image
+       y="895.85608"
+       x="559.6283"
+       id="image3144"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%20''%D0%94%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80''/%D0%9D%D0%B0%D1%82%D1%8F%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%B8.jpg"
+       height="156.90164"
+       width="193.25652"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Магазин ''Декоратор''\text5686.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.22343922px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0164034;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3979-6);font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       x="472.10342"
+       y="936.75806"
+       id="text3147"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.3600222,0,0,1.2238707,-174.32062,-199.16023)"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Магазин ''Декоратор''\text5686.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3149"
+         x="474.52667"
+         y="936.75806">Гарантия </tspan><tspan
+         sodipodi:role="line"
+         x="472.10342"
+         y="955.78735"
+         id="tspan3991">30 лет</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.30152415999999960px;font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#ffffff;filter:url(#filter3997-8);font-family:Bookman Old Style;-inkscape-font-specification:Bookman Old Style Light Italic;stroke-opacity:1;stroke-width:0.1867153;stroke-miterlimit:4;stroke-dasharray:none"
+       x="426.24622"
+       y="995.72644"
+       id="text3993"
+       sodipodi:linespacing="125%"
+       transform="matrix(3.0470977,0,0,2.6592177,-897.72262,-1657.6655)"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Магазин ''Декоратор''\text5686.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3995"
+         x="426.24622"
+         y="995.72644">От завода изготовителя</tspan></text>
+    <text
+       transform="matrix(1.3600222,0,0,1.2238707,13.614231,-199.16023)"
+       sodipodi:linespacing="125%"
+       id="text4009"
+       y="936.75806"
+       x="472.10342"
+       style="font-size:15.22343922px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0164034;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3979-6);font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+       xml:space="preserve"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Магазин ''Декоратор''\text5686.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         y="936.75806"
+         x="474.52667"
+         id="tspan4011"
+         sodipodi:role="line">Гарантия </tspan><tspan
+         id="tspan4013"
+         y="955.78735"
+         x="472.10342"
+         sodipodi:role="line">15 лет</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.26729679px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.21162874;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5136);font-family:Sans"
+       x="436.80374"
+       y="1059.9174"
+       id="text4017"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.91675776,0,0,0.94906924,12.985657,12.638419)"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Магазин ''Декоратор''\text5686.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="436.80374"
+         y="1059.9174"
+         id="tspan4023"
+         style="stroke-width:0.21162874">Адрес: г. Донецк, ул. Куйбышева, 36 Магазин &quot;Декоратор&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="436.80374"
+         y="1075.2515"
+         id="tspan4021"
+         style="stroke-width:0.21162874">Тел.: (066) 480 35 07   (098) 369 73 01</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.16156673000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5674);font-family:Consolas;-inkscape-font-specification:Consolas"
+       x="468.48828"
+       y="909.94592"
+       id="text5150"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.97094727,0,0,0.97094727,13.627573,26.06129)"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Магазин ''Декоратор''\text5686.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5152"
+         x="468.48828"
+         y="909.94592">Металлопластиковые</tspan><tspan
+         sodipodi:role="line"
+         x="468.48828"
+         y="928.89789"
+         id="tspan5154">балконы, окна, лоджии</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5686"
+       y="909.94592"
+       x="655.94196"
+       style="font-size:15.16156673000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5674);font-family:Consolas;-inkscape-font-specification:Consolas"
+       xml:space="preserve"
+       transform="matrix(0.97094727,0,0,0.97094727,18.900684,26.06129)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         id="tspan5690"
+         y="909.94592"
+         x="660.11731"
+         sodipodi:role="line">Элитные натяжные </tspan><tspan
+         y="928.89789"
+         x="655.94196"
+         sodipodi:role="line"
+         id="tspan5694">потолки</tspan></text>
+  </g>
+</svg>
