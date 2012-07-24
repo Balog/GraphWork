@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="Визитка 2.svg"
-   inkscape:export-filename="D:\GraphWork\ReleaseProjects\2012\Июль\13.07\Визитка РБЦ\Визитка 2 новая.png"
+   inkscape:export-filename="D:\GraphWork\ReleaseProjects\2012\Июль\24.07\Визитка РБЦ\Визитка 2 новая.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <sodipodi:namedview
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8843187"
-     inkscape:cx="164.9898"
-     inkscape:cy="79.671049"
+     inkscape:zoom="3.7686374"
+     inkscape:cx="219.51578"
+     inkscape:cy="132.74063"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg3016"
      showgrid="false"
      width="1052.36px"
      units="mm"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,6 +109,13 @@
        height="161.04262"
        x="12.085103"
        y="880.14038" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect2992"
+       width="327.4393"
+       height="185.21283"
+       x="-1.0613916"
+       y="867.68005" />
   </g>
   <image
      y="6.756062"
@@ -117,4 +124,11 @@
      xlink:href="file:///D:/GraphWork/WorkingProjects/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/kalendar-2012%20transparent.png"
      height="172.43246"
      width="315.80219" />
+  <image
+     width="315.80219"
+     height="172.43246"
+     xlink:href="file:///D:/GraphWork/WorkingProjects/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/kalendar-2012%20transparent.png"
+     id="image3762"
+     x="5.0225186"
+     y="6.756062" />
 </svg>
