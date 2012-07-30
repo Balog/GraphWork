@@ -59,9 +59,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.8805774"
+     inkscape:zoom="1.3719913"
      inkscape:cx="342.16168"
-     inkscape:cy="302.62992"
+     inkscape:cy="244.32051"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -111,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -534,5 +534,26 @@
          x="384.12335"
          y="1022.4003"
          id="tspan3094">                                                 +38 (099) 718-02-12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:35.76550293px;font-style:normal;font-weight:normal;line-height:50%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="438.98138"
+       y="742.63141"
+       id="text5042-1"
+       sodipodi:linespacing="50%"
+       inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Страница 2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       transform="scale(1.014243,0.98595701)"><tspan
+         sodipodi:role="line"
+         id="tspan5044-7"
+         x="438.98138"
+         y="742.63141"
+         style="font-size:35.76550293px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000094;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Monotype Corsiva;-inkscape-font-specification:Monotype Corsiva Oblique">&quot;Натали&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="438.98138"
+         y="763.3739"
+         id="tspan5046-4"
+         style="font-size:14.30620193px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:50%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans">мини-пансионат</tspan></text>
   </g>
 </svg>
