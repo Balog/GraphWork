@@ -56,7 +56,7 @@
          id="stop4432" />
     </linearGradient>
     <pattern
-       patternTransform="matrix(1.1339202,0,0,1.026727,391.60639,947.58555)"
+       patternTransform="matrix(0.67567807,0,0,0.60412706,393.06412,945.39891)"
        id="pattern17645-1"
        xlink:href="#pattern13693-7"
        inkscape:collect="always" />
@@ -85,6 +85,70 @@
            id="tspan38635-9"
            sodipodi:role="line">ПОЛИГРАФИЯ</tspan></text>
     </pattern>
+    <filter
+       id="filter3988"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3990"
+         flood-opacity="0.6"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3992"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3994"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset3996"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite3998"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4000"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4002"
+         flood-opacity="0.6"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4004"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4006"
+         in="composite"
+         stdDeviation="1"
+         result="blur" />
+      <feOffset
+         id="feOffset4008"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite4010"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -94,8 +158,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3719913"
-     inkscape:cx="375.59054"
-     inkscape:cy="178.93699"
+     inkscape:cx="408.41847"
+     inkscape:cy="62.318175"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -408,19 +472,19 @@
        inkscape:export-ydpi="150" />
     <rect
        style="fill:url(#pattern17645-1);stroke:none;display:inline"
-       width="370.70688"
-       height="35.416382"
-       x="391.60635"
-       y="947.58551"
+       width="218.12425"
+       height="20.839029"
+       x="393.06412"
+       y="945.39886"
        id="rect20424"
        inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Страница 2.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <text
        xml:space="preserve"
-       style="font-size:43.58449173px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="386.93979"
-       y="1027.1805"
+       style="font-size:61.99705505px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="510.54449"
+       y="994.68518"
        id="text6178"
        sodipodi:linespacing="125%"
        inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Страница 2.png"
@@ -428,35 +492,52 @@
        inkscape:export-ydpi="150"
        transform="scale(1.014243,0.98595701)"><tspan
          sodipodi:role="line"
-         id="tspan6180"
-         x="386.93979"
-         y="1027.1805"
-         style="font-size:11.98573589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;font-family:Sans;-inkscape-font-specification:Sans">      визитка - 95 грн/1000 шт</tspan><tspan
-         sodipodi:role="line"
-         x="386.93979"
-         y="1042.1627"
-         style="font-size:11.98573589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;font-family:Sans;-inkscape-font-specification:Sans"
-         id="tspan6182">изготовление сайтов от 600 грн</tspan></text>
+         x="510.54449"
+         y="994.68518"
+         style="font-size:17.04919052px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;font-family:Sans;-inkscape-font-specification:Sans"
+         id="tspan3202">визитка - 95 грн за 1000 шт</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20.08639526px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="591.61115"
-       y="1106.7765"
+       style="font-size:25.3991909px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Agency FB;-inkscape-font-specification:Agency FB"
+       x="417.27408"
+       y="938.38336"
        id="text6184"
        sodipodi:linespacing="125%"
        inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Страница 2.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150"
-       transform="scale(1.1025791,0.9069644)"><tspan
+       transform="scale(0.93892141,1.0650519)"><tspan
          sodipodi:role="line"
          id="tspan6186"
-         x="591.61115"
-         y="1106.7765"
-         style="text-align:center;text-anchor:middle;fill:#ffffff">344 09 12</tspan><tspan
+         x="417.27408"
+         y="938.38336"
+         style="font-size:25.3991909px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Agency FB;-inkscape-font-specification:Agency FB">344 09 12</tspan><tspan
          sodipodi:role="line"
-         x="591.61115"
-         y="1131.8845"
+         x="417.27408"
+         y="970.13232"
          id="tspan6188"
-         style="text-align:center;text-anchor:middle;fill:#ffffff">(095) 170 68 23</tspan></text>
+         style="font-size:25.3991909px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Agency FB;-inkscape-font-specification:Agency FB">(095) 170 68 23</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.27606201000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#05c900;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans;filter:url(#filter4000)"
+       x="518.2226"
+       y="1001.7893"
+       id="text3208"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="518.2226"
+         y="1001.7893"
+         id="tspan3212">изготовление сайтов </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.16162299999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#05c900;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans;filter:url(#filter3988)"
+       x="619.13367"
+       y="1028.3043"
+       id="text3216"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3218"
+         x="619.13367"
+         y="1028.3043">от 600 грн</tspan></text>
   </g>
 </svg>
