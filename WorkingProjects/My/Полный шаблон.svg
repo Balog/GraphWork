@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3719913"
-     inkscape:cx="375.59054"
-     inkscape:cy="178.93699"
+     inkscape:cx="401.56992"
+     inkscape:cy="149.78229"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,9 @@
      inkscape:window-height="723"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="false">
     <sodipodi:guide
        orientation="0,1"
        position="-126.0941,342.56777"
@@ -66,6 +68,30 @@
        orientation="1,0"
        position="376.09568,245.62838"
        id="guide3434" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="134.11164,108.60127"
+       id="guide4373" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="612.24878,178.57256"
+       id="guide4379" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="561.22805,162.53747"
+       id="guide4381" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="619.53746,88.192979"
+       id="guide4385" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="651.60763,161.07974"
+       id="guide4389" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="682.22007,48.834129"
+       id="guide4393" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -83,5 +109,55 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-694.48818)" />
+     transform="translate(0,-694.48818)">
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.81044042;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.27962611"
+       id="rect3861"
+       width="371.23682"
+       height="247.22105"
+       x="2.6722612"
+       y="697.2171" />
+    <rect
+       y="945.53821"
+       x="2.5321906"
+       height="105.76891"
+       width="371.51697"
+       id="rect3863"
+       style="fill:#00ff06;fill-opacity:1;stroke:#ff0000;stroke-width:0.53029948;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.27962611" />
+    <rect
+       y="697.29156"
+       x="377.88058"
+       height="176.4805"
+       width="371.3624"
+       id="rect4375"
+       style="fill:#00f3ff;fill-opacity:1;stroke:#ff0000;stroke-width:0.68485743;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.27962611" />
+    <rect
+       style="fill:#005eff;fill-opacity:1;stroke:#ff0000;stroke-width:0.48204526;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.27962611"
+       id="rect4377"
+       width="183.76993"
+       height="176.6833"
+       x="377.77917"
+       y="875.19019" />
+    <rect
+       y="874.97333"
+       x="562.97968"
+       height="88.241882"
+       width="183.91118"
+       id="rect4383"
+       style="fill:#dc00ff;fill-opacity:1;stroke:#ff0000;stroke-width:0.34079584;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.27962611" />
+    <rect
+       style="fill:#fff300;fill-opacity:1;stroke:#ff0000;stroke-width:0.23634227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.27962611"
+       id="rect4387"
+       width="88.346336"
+       height="88.346336"
+       x="562.94495"
+       y="963.63245" />
+    <rect
+       y="1004.2745"
+       x="378.97961"
+       height="35.127369"
+       width="371.74155"
+       id="rect4391"
+       style="fill:#000634;fill-opacity:0.48717951;stroke:#ff0000;stroke-width:0.30570054;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.27962611" />
+  </g>
 </svg>
