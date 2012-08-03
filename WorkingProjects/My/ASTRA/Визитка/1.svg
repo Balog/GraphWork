@@ -103,9 +103,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8843188"
-     inkscape:cx="212.49105"
-     inkscape:cy="90.690395"
+     inkscape:zoom="0.9421594"
+     inkscape:cx="338.75825"
+     inkscape:cy="157.52374"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -148,7 +148,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -160,10 +160,11 @@
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect3029"
-       width="325.18777"
-       height="183.33653"
-       x="0.5306958"
-       y="868.74139" />
+       width="184.15538"
+       height="325.961"
+       x="868.133"
+       y="-325.9061"
+       transform="matrix(0,1,-1,0,0,0)" />
     <rect
        style="opacity:0.375;fill:#242178;fill-opacity:1;stroke:none;display:none"
        id="rect3028"
@@ -203,17 +204,17 @@
          id="flowPara3038" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3050"
-       style="font-size:12.00000016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:145%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="matrix(0,-0.60760835,0.60760835,0,67.016734,1050.8512)"><flowRegion
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:145.00000477%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="matrix(0,-0.60760835,0.60760835,0,65.200843,1051.4198)"><flowRegion
          id="flowRegion3052"><rect
            id="rect3054"
            width="258.17792"
            height="392.52048"
            x="20.263964"
            y="-31.14646"
-           style="font-size:12.00000016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:145%;writing-mode:lr;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
-         id="flowPara3058">ПРОТИВОУГОННЫЕ ОХРАННЫЕ СИСТЕМЫ СПУТНИКОВЫЙ GPRS-АВТОМОНТОРИНГ КСЕНОН АВТОЛАМПЫ ОПТИКА ЛИНЗЫ ФОНАРИ ДНЕВНОГО ОСВЕЩЕНИЯ ПТФ НАВИГАЦИОННЫЕ СИСТЕМЫ КАРТЫ ПО МУЛЬТИМЕДИЙНЫЕ ЦЕНТРЫ АДАПТЕРЫ ВИДЕОРЕГИСТРАТОРЫ АКСЕССУАРЫ 12V ОРИГИНАЛЬНЫЕ ГОЛОВНЫЕ УСТРОЙСТВА СИСТЕМЫ ПАРКОВКИ ЗАДНЕГО ОБЗОРА КАМЕРЫ ЗАДНЕГО И ПЕРЕДНЕГО ВИДА СИСТЕМЫ САЛОННОЙ СВЯЗИ BLUETOOTH АВТОЗВУК АКУСТИЧЕСКИЙ ТЮНИНГ СИСТЕМЫ ПОДОГРЕВА СИДЕНИЙ ЗЕРКАЛ ЗВУКОИЗОЛЯЦИЯ САЛОНА И КУЗОВА ТОНИРОВАНИЕ УСТАНОВКА АВТОСТЕКЛА АВТОКОНДИЦИОНЕРЫ ОХЛАДИТЕЛИ АВТОНОМНЫЕ ОТОПИТЕЛИ АВТОЛЮКИ ФАРКОПЫ ЗАЩИТА ДВИГАТЕЛЯ РЕЙЛИНГ <flowSpan
-   style="font-size:12.00000016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:145%;writing-mode:lr;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:145.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara3058">ПРОТИВОУГОННЫЕ ОХРАННЫЕ СИСТЕМЫ СПУТНИКОВЫЙ GPRS-АВТОМОНИТОРИНГ КСЕНОН АВТОЛАМПЫ ОПТИКА ЛИНЗЫ ФОНАРИ ДНЕВНОГО ОСВЕЩЕНИЯ ПТФ НАВИГАЦИОННЫЕ СИСТЕМЫ КАРТЫ ПО МУЛЬТИМЕДИЙНЫЕ ЦЕНТРЫ АДАПТЕРЫ ВИДЕОРЕГИСТРАТОРЫ АКСЕССУАРЫ 12V ОРИГИНАЛЬНЫЕ ГОЛОВНЫЕ УСТРОЙСТВА СИСТЕМЫ ПАРКОВКИ И ЗАДНЕГО ОБЗОРА КАМЕРЫ ЗАДНЕГО И ПЕРЕДНЕГО ВИДА СИСТЕМЫ САЛОННОЙ СВЯЗИ BLUETOOTH АВТОЗВУК АКУСТИЧЕСКИЙ ТЮНИНГ СИСТЕМЫ ПОДОГРЕВА СИДЕНИЙ ЗЕРКАЛ ЗВУКОИЗОЛЯЦИЯ САЛОНА И КУЗОВА ТОНИРОВАНИЕ УСТАНОВКА АВТОСТЕКЛА АВТОКОНДИЦИОНЕРЫ ОХЛАДИТЕЛИ АВТОНОМНЫЕ ОТОПИТЕЛИ АВТОЛЮКИ ФАРКОПЫ ЗАЩИТА ДВИГАТЕЛЯ РЕЙЛИНГ <flowSpan
+   style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:145.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Oblique"
    id="flowSpan3012">КОНСУЛЬТАЦИЯ ПОДБОР ПРОДАЖА ТЕКУЩЕЕ ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ</flowSpan></flowPara></flowRoot>    <image
        y="877.82288"
        x="96.137558"
@@ -222,31 +223,30 @@
        height="235"
        width="207"
        clip-path="url(#clipPath3027)"
-       transform="matrix(0,-0.21428578,0.21428578,0,-173.28957,1062.8293)" />
+       transform="matrix(0,-0.21428578,0.21428578,0,-175.10547,1063.3979)" />
     <text
        xml:space="preserve"
        style="font-size:12.75594807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="-945.09558"
-       y="26.484632"
+       x="-945.66418"
+       y="24.668751"
        id="text3031"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3033"
-         x="-943.5011"
-         y="26.484632"
+         x="-944.0697"
+         y="24.668751"
          style="font-size:12.75594807px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua Bold">АВТОТЕХЦЕНТР </tspan><tspan
          sodipodi:role="line"
-         x="-945.09558"
-         y="42.429569"
+         x="-945.66418"
+         y="40.613686"
          id="tspan3035"
          style="font-size:12.75594807px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;font-family:Book Antiqua;-inkscape-font-specification:Book Antiqua Bold">&quot;АСТРА&quot;</tspan></text>
     <path
        style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 44.047748,169.92318 0,-157.085943"
+       d="m 42.231863,1038.602 0,-157.08599"
        id="path3805"
-       inkscape:connector-curvature="0"
-       transform="translate(0,868.11019)" />
+       inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3811"
@@ -261,7 +261,7 @@
        xml:space="preserve"
        id="flowRoot3819"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="matrix(0,-0.6835002,0.6835002,0,125.4774,1276.181)"><flowRegion
+       transform="matrix(0,-0.6835002,0.6835002,0,123.6615,1276.7496)"><flowRegion
          id="flowRegion3821"><rect
            id="rect3823"
            width="140.10367"
@@ -276,44 +276,52 @@
          id="flowPara3033">www.astra.dn.ua </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8.2036581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="-932.55804"
-       y="270.91489"
+       x="-933.12665"
+       y="269.09897"
        id="text3803"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3805"
-         x="-932.55804"
-         y="270.91489">062-3451022</tspan><tspan
+         x="-933.12665"
+         y="269.09897">095-0123576</tspan><tspan
          sodipodi:role="line"
-         x="-932.55804"
-         y="281.16943"
+         x="-933.12665"
+         y="279.35355"
+         id="tspan3053">098-3800935 </tspan><tspan
+         sodipodi:role="line"
+         x="-933.12665"
+         y="289.60812"
+         id="tspan3055">062-3451022</tspan><tspan
+         sodipodi:role="line"
+         x="-933.12665"
+         y="299.8627"
          id="tspan3807">062-3818507</tspan><tspan
          sodipodi:role="line"
-         x="-932.55804"
-         y="291.42401"
+         x="-933.12665"
+         y="310.11725"
          id="tspan3809">062-3451520</tspan><tspan
          sodipodi:role="line"
-         x="-932.55804"
-         y="301.67859"
-         id="tspan3811">095-0123576 </tspan><tspan
+         x="-933.12665"
+         y="320.37183"
+         id="tspan3811" /><tspan
          sodipodi:role="line"
-         x="-932.55804"
-         y="311.93317"
-         id="tspan3813">098-3800935 </tspan></text>
+         x="-933.12665"
+         y="330.6264"
+         id="tspan3813" /></text>
     <path
        inkscape:connector-curvature="0"
        id="path3819"
-       d="m 257.62892,1038.0334 0,-155.49389"
-       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+       d="m 255.81302,1038.602 0,-155.4939"
+       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 262.93592,1038.0334 0,-155.49389"
+       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 261.12002,1038.602 0,-155.4939"
        id="path3821"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 236.56752,1038.0334 0,-155.49389"
+       d="m 234.75162,1038.602 0,-155.4939"
        id="path3827"
        inkscape:connector-curvature="0" />
   </g>
