@@ -14,7 +14,7 @@
    id="svg3016"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Визитка 1.svg"
+   sodipodi:docname="Шаблон визитки.svg"
    inkscape:export-filename="C:\Documents and Settings\Admin\Рабочий стол\Макеты\Мои\Визитка РБЦ\Визитка 1.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -41,7 +41,9 @@
      inkscape:window-height="723"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="false">
     <sodipodi:guide
        orientation="1,0"
        position="14.328786,184.15144"
@@ -58,6 +60,22 @@
        orientation="1,0"
        position="312.04912,170.35335"
        id="guide3059" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="7.0866142,81.727152"
+       id="guide2988" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="318.89764,83.319239"
+       id="guide2990" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="177.16535,177.16535"
+       id="guide2992" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="148.06413,7.0866142"
+       id="guide2994" />
   </sodipodi:namedview>
   <metadata
      id="metadata3021">
@@ -67,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
