@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.3719913"
      inkscape:cx="401.56992"
-     inkscape:cy="208.0917"
+     inkscape:cy="237.2464"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -108,6 +108,22 @@
        orientation="0,1"
        position="427.11641,349.85645"
        id="guide3019" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,273.32535"
+       id="guide3250" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="104.22807,357.87399"
+       id="guide3252" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="147.23125,0"
+       id="guide3254" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="751.46249,-16.763955"
+       id="guide3256" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
