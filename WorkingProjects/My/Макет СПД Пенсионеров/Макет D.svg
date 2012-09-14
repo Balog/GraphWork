@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Полный шаблон.svg">
+   sodipodi:docname="Макет D.svg"
+   inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Макет СПД Пенсионеров\Макет D.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <linearGradient
@@ -182,7 +185,10 @@
        width="376.82455"
        height="108.60127"
        x="0.80869085"
-       y="943.59174" />
+       y="943.59174"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Макет СПД Пенсионеров\Макет.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <g
        id="g3911"
        transform="matrix(0.79870502,0,0,0.79870502,-75.033281,191.02671)">
@@ -199,61 +205,88 @@
     </g>
     <g
        id="g3877"
-       transform="matrix(0.39863138,0,0,0.39863138,15.144324,988.47368)">
+       transform="matrix(0.39863138,0,0,0.39863138,15.144324,988.47368)"
+       style="fill:#0000ff">
       <text
          id="text3879"
-         style="font-size:22.4992733px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         style="font-size:22.49927329999999900px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#0000ff;font-family:Calibri"
          y="21.43869"
          x="0"
          xml:space="preserve">Кредит до 50000 грн. Для физ лиц. СПД. Пенсионеров, </text>
       <text
          id="text3881"
-         style="font-size:22.4992733px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         style="font-size:22.49927329999999900px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#0000ff;font-family:Calibri"
          y="53.072002"
          x="0"
          xml:space="preserve">автокредитование,возраст от 19</text>
       <text
          id="text3883"
-         style="font-size:22.4992733px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         style="font-size:22.49927329999999900px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#0000ff;font-family:Calibri"
          y="53.072002"
          x="310.03998"
          xml:space="preserve">-</text>
       <text
          id="text3885"
-         style="font-size:22.4992733px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         style="font-size:22.49927329999999900px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#0000ff;font-family:Calibri"
          y="53.072002"
          x="316.93976"
          xml:space="preserve">65 лет. Официальное </text>
       <text
          id="text3887"
-         style="font-size:22.4992733px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         style="font-size:22.49927329999999900px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#0000ff;font-family:Calibri"
          y="84.705315"
          x="0"
          xml:space="preserve">трудоустройство без первоночальных</text>
       <text
          id="text3889"
-         style="font-size:22.4992733px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         style="font-size:22.49927329999999900px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#0000ff;font-family:Calibri"
          y="84.705315"
          x="364.48822"
          xml:space="preserve"> </text>
       <text
          id="text3891"
-         style="font-size:22.4992733px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         style="font-size:22.49927329999999900px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#0000ff;font-family:Calibri"
          y="84.705315"
          x="369.58804"
          xml:space="preserve">взносов  срок </text>
       <text
          id="text3893"
-         style="font-size:22.4992733px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         style="font-size:22.49927329999999900px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#0000ff;font-family:Calibri"
          y="116.18871"
          x="0"
          xml:space="preserve">кредитования до 4 лет льготный кредит.</text>
       <text
          id="text3895"
-         style="font-size:13.79955387px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         style="font-size:13.79955387000000000px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#0000ff;font-family:Calibri"
          y="116.18871"
          x="389.9874"
          xml:space="preserve"> </text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:26.99612617px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Agency FB;-inkscape-font-specification:Agency FB Bold"
+       x="229.67192"
+       y="970.13336"
+       id="text3057"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3059"
+         x="229.67192"
+         y="970.13336">095-257-80-16</tspan><tspan
+         sodipodi:role="line"
+         x="229.67192"
+         y="1003.8785"
+         id="tspan3829">095-327-65-71</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="229.59329"
+       y="1034.292"
+       id="text3831"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3833"
+         x="229.59329"
+         y="1034.292">Донецк, ул. Пушкина 20</tspan></text>
   </g>
 </svg>
