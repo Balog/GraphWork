@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="2.svg">
+   sodipodi:docname="2.svg"
+   inkscape:export-filename="D:\GraphWork\ReleaseProjects\2012\Сентябрь\20.09\Реклама\2.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <linearGradient
@@ -68,9 +71,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3719913"
-     inkscape:cx="284.59678"
-     inkscape:cy="179.24042"
+     inkscape:zoom="2.7439826"
+     inkscape:cx="544.67101"
+     inkscape:cy="62.621604"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -317,6 +320,13 @@
        xlink:href="file:///D:/GraphWork/WorkingProjects/My/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%20%D0%A1%D0%9F%D0%94%20%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%BE%D0%B2/visa3.png"
        height="49.475918"
        width="74.161575" />
+    <rect
+       style="fill:#f6f200;fill-opacity:1;stroke:none"
+       id="rect3904"
+       width="217.93141"
+       height="64.504784"
+       x="376.46011"
+       y="988.22186" />
     <flowRoot
        transform="translate(366.50002,693.47273)"
        xml:space="preserve"
@@ -445,5 +455,10 @@
          x="227.09343"
          y="866.0578"
          id="tspan3898">5000 шт 460 грн</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 375.73125,943.03203 375.73124,0"
+       id="path3902"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
