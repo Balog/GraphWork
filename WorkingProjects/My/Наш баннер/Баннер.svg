@@ -468,15 +468,15 @@
        id="text3823"
        y="1043.0704"
        x="31.029297"
-       style="font-size:27.21707153px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter3931);font-family:Algerian;-inkscape-font-specification:Algerian"
+       style="font-size:27.21707153px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter3931);font-family:Algerian;-inkscape-font-specification:Algerian"
        xml:space="preserve"
-       transform="matrix(1.0468381,0,0,1.0468381,-21.831945,-89.414838)"><tspan
+       transform="matrix(1.0468381,0,0,1.0468381,87.178208,-89.414838)"><tspan
          id="tspan3827"
          y="1043.0704"
-         x="31.029297"
-         sodipodi:role="line">    344 09 112</tspan><tspan
+         x="31.029293"
+         sodipodi:role="line">    344 09 12</tspan><tspan
          y="1077.0918"
-         x="31.029297"
+         x="31.029293"
          sodipodi:role="line"
          id="tspan3970">(095) 170 68 23</tspan></text>
     <flowRoot
