@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="524.40942"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="1.svg"
+   inkscape:export-filename="D:\GraphWork\WorkingProjects\Примеры\Автоуслуги\1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4837">
+      <stop
+         style="stop-color:#2e2eff;stop-opacity:1"
+         offset="0"
+         id="stop4839" />
+      <stop
+         style="stop-color:#92cdf9;stop-opacity:1"
+         offset="1"
+         id="stop4841" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4837"
+       id="linearGradient4843"
+       x1="139.70003"
+       y1="821.16418"
+       x2="139.34433"
+       y2="730.53589"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0040845,0,0,1,-1.0753274,-51.897753)" />
+    <filter
+       id="filter4894"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4896"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4898"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4900"
+         in="composite"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4902"
+         dx="1.5"
+         dy="1.5"
+         result="offset" />
+      <feComposite
+         id="feComposite4904"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4906"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4908"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4910"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4912"
+         in="composite"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4914"
+         dx="1.5"
+         dy="1.5"
+         result="offset" />
+      <feComposite
+         id="feComposite4916"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4918"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4920"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4922"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4924"
+         in="composite"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4926"
+         dx="1.5"
+         dy="1.5"
+         result="offset" />
+      <feComposite
+         id="feComposite4928"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5002"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5004"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5006"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5008"
+         in="composite"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset5010"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite5012"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5014"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5016"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5018"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5020"
+         in="composite"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset5022"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite5024"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5026"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5028"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5030"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5032"
+         in="composite"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset5034"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite5036"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5343"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5345"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5347"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5349"
+         in="composite"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset5351"
+         dx="2"
+         dy="2"
+         result="offset" />
+      <feComposite
+         id="feComposite5353"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5439"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5441"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5443"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5445"
+         in="composite"
+         stdDeviation="0.1"
+         result="blur" />
+      <feOffset
+         id="feOffset5447"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite5449"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5451"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5453"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5455"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5457"
+         in="composite"
+         stdDeviation="0.1"
+         result="blur" />
+      <feOffset
+         id="feOffset5459"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite5461"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5545"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5547"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5549"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5551"
+         in="composite"
+         stdDeviation="0.1"
+         result="blur" />
+      <feOffset
+         id="feOffset5553"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite5555"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5597"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5599"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5601"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5603"
+         in="composite"
+         stdDeviation="0.1"
+         result="blur" />
+      <feOffset
+         id="feOffset5605"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite5607"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5609"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5611"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5613"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5615"
+         in="composite"
+         stdDeviation="0.1"
+         result="blur" />
+      <feOffset
+         id="feOffset5617"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite5619"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5854"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5856"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5858"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5860"
+         in="composite"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset5862"
+         dx="0.5"
+         dy="0.5"
+         result="offset" />
+      <feComposite
+         id="feComposite5864"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6000"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6002"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6004"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6006"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset6008"
+         dx="1.5"
+         dy="1.5"
+         result="offset" />
+      <feComposite
+         id="feComposite6010"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6166"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6168"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6170"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6172"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset6174"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite6176"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6207"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6209"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6211"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6213"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset6215"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite6217"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6219"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6221"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6223"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6225"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset6227"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite6229"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6237"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6239"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6241"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6243"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset6245"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite6247"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6299"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6301"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6303"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6305"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset6307"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite6309"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6341"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6343"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6345"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6347"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset6349"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite6351"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6403"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6405"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6407"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6409"
+         in="composite"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset6411"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite6413"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6439"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6441"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6443"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6445"
+         in="composite"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset6447"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite6449"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6451"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6453"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6455"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6457"
+         in="composite"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset6459"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite6461"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6485"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6487"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6489"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6491"
+         in="composite"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset6493"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite6495"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter6507"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood6509"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite6511"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur6513"
+         in="composite"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset6515"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite6517"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="145.64009"
+     inkscape:cy="736.80948"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     units="mm"
+     showborder="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,757.61441"
+       id="guide2985" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="131.31983,0"
+       id="guide2987" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="524.40945,527.29963"
+       id="guide2989" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="228.29448,744.09449"
+       id="guide2991" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="14.173228,533.36054"
+       id="guide2993" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="510.23622,602.05092"
+       id="guide2995" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="331.33003,14.173228"
+       id="guide2997" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="218.19295,729.92126"
+       id="guide2999" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="3.5433071,470.73109"
+       id="guide3001" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="220.21325,3.5433071"
+       id="guide3003" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="256.57875,740.55118"
+       id="guide3005" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="520.86614,389.28571"
+       id="guide3007" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="262.85714,552.14286"
+       id="guide3031" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="95.714286,122.14286"
+       id="guide3033" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="97.142857,374.28571"
+       id="guide3035" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="359.28571,552.85714"
+       id="guide3037" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="381.42857,465"
+       id="guide3039" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="365,411.42857"
+       id="guide3041" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="356.42857,192.14286"
+       id="guide3043" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="387.85714,293.57143"
+       id="guide3045" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="372.14286,280.71429"
+       id="guide3047" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <rect
+       style="fill:url(#linearGradient4843);fill-opacity:1;stroke:none"
+       id="rect3017"
+       width="263.38864"
+       height="94.296967"
+       x="-0.11719211"
+       y="678.4024" />
+    <rect
+       style="fill:#ccffaa;fill-opacity:1;stroke:none"
+       id="rect3025"
+       width="127.23003"
+       height="87.781738"
+       x="135.67227"
+       y="499.46231" />
+    <rect
+       style="fill:#10ff00;fill-opacity:1;stroke:none"
+       id="rect3021"
+       width="263.68887"
+       height="51.090435"
+       x="260.48837"
+       y="308.61212" />
+    <rect
+       style="fill:#ffaeff;fill-opacity:1;stroke:none"
+       id="rect3027"
+       width="126.51575"
+       height="91.613136"
+       x="136.51453"
+       y="587.18707" />
+    <rect
+       style="fill:#00abad;fill-opacity:1;stroke:none"
+       id="rect3015"
+       width="262.6131"
+       height="191.19855"
+       x="-0.16361353"
+       y="308.40088" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       id="rect3023"
+       width="138.15788"
+       height="178.17551"
+       x="-0.110241"
+       y="499.39688" />
+    <rect
+       y="771.79865"
+       x="-0.10231229"
+       height="176.40775"
+       width="262.67871"
+       id="rect3029"
+       style="fill:#b4ff7c;fill-opacity:1;stroke:none" />
+    <image
+       y="678.32159"
+       x="14.285731"
+       id="image4326"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/%D0%90%D0%B2%D1%82%D0%BE%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8/%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%82%D1%80%D0%B0%D0%BD%D1%81.jpg"
+       height="41.15873"
+       width="248.87755" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.78668118px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="14.369716"
+       y="724.4137"
+       id="text4849"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="14.369716"
+         y="724.4137"
+         id="tspan4857">услуги автотранспорта и спецтехники;</tspan><tspan
+         sodipodi:role="line"
+         x="14.369716"
+         y="732.89703"
+         id="tspan4868">рытье котлованов любой сложности;</tspan><tspan
+         sodipodi:role="line"
+         x="14.369716"
+         y="741.38037"
+         id="tspan4870">планировка грунта;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.78668118px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="139.69379"
+       y="724.59497"
+       id="text4872"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4874"
+         x="139.69379"
+         y="724.59497">демонтаж зданий;</tspan><tspan
+         sodipodi:role="line"
+         x="139.69379"
+         y="733.07831"
+         id="tspan4876">вывоз строительного мусора;</tspan><tspan
+         sodipodi:role="line"
+         x="139.69379"
+         y="741.56165"
+         id="tspan4878">перевозка сыпучих стройматериалов </tspan><tspan
+         sodipodi:role="line"
+         x="139.69379"
+         y="750.04504"
+         id="tspan4880">и грунтов.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.7686305px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter5002);font-family:Sans;-inkscape-font-specification:Sans"
+       x="140.27139"
+       y="806.40228"
+       id="text4882"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99420863,0,0,1.0058251,2.6076489e-6,-51.897753)"><tspan
+         sodipodi:role="line"
+         id="tspan4884"
+         x="140.27139"
+         y="806.40228">83086, г.Донецк, ул. Донецкая, 7/2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.94163227px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter5026);font-family:Sans;-inkscape-font-specification:Sans"
+       x="13.836055"
+       y="756.3916"
+       id="text4886"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4888"
+         x="13.836055"
+         y="756.3916">+38 (063) 2304905</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.48539352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter5014);font-family:Sans;-inkscape-font-specification:Sans"
+       x="14.999995"
+       y="767.23419"
+       id="text4890"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4892"
+         x="14.999995"
+         y="767.23419">Дмитрий</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.59500122px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'"
+       x="131.46776"
+       y="331.29343"
+       id="text6016"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6018"
+         x="131.46776"
+         y="331.29343"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Heavy'">ООО</tspan><tspan
+         sodipodi:role="line"
+         x="131.46776"
+         y="351.04456"
+         id="tspan6020">&quot;DonAvto&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter6166);font-family:Sans;-inkscape-font-specification:Sans"
+       x="14.795158"
+       y="368.99399"
+       id="text6022"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6024"
+         x="14.795158"
+         y="368.99399">(062) 338-23-10 факс (0623) 30-15-87</tspan><tspan
+         sodipodi:role="line"
+         x="14.795158"
+         y="383.99399"
+         id="tspan6026">(099) 00-888-14 Шлакоблок: (095) 734-66-77</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.6504221px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="15.250105"
+       y="392.05664"
+       id="text6028"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98199261,1.0183376)"><tspan
+         sodipodi:role="line"
+         x="15.250105"
+         y="392.05664"
+         id="tspan6032">ООО «ДАНКО» предлагает услуги по грузоперевозкам в Донецке, </tspan><tspan
+         sodipodi:role="line"
+         x="15.250105"
+         y="401.61966"
+         id="tspan6036">Донецкой области и по Украине следующим автотранспортом:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.6571455px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="12.777581"
+       y="419.59329"
+       id="text6038"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="12.777581"
+         y="419.59329"
+         id="tspan6048">1. <tspan
+   style="font-size:8.6571455px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+   id="tspan6064">Самосвалы</tspan><tspan
+   style="font-size:8.6571455px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+   id="tspan6072"> (грузоподъемностью от 6 тонн до 35 тонн)</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="12.777581"
+         y="430.44611"
+         id="tspan6050">2. <tspan
+   style="font-size:8.6571455px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+   id="tspan6066">Длинномер</tspan><tspan
+   style="font-size:8.6571455px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+   id="tspan6074"> (13,6 метров,грузоподъемность до 24тонн)</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="12.777581"
+         y="441.29895"
+         id="tspan6052">3. <tspan
+   style="font-size:8.6571455px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+   id="tspan6068">Трал</tspan><tspan
+   style="font-size:8.6571455px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+   id="tspan6076">(грузоподъёмность до 25 тонн) </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="12.777581"
+         y="452.15176"
+         id="tspan6054">4. <tspan
+   style="font-size:8.6571455px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+   id="tspan6070">Бортовой тентованный полуприцеп</tspan><tspan
+   style="font-size:8.6571455px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+   id="tspan6078"> (25 тонн, 100 м3)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;filter:url(#filter6207);font-family:Sans;-inkscape-font-specification:Sans"
+       x="16.815449"
+       y="469.88708"
+       id="text6178"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6180"
+         x="16.815449"
+         y="469.88708">Грузоперевозки</tspan><tspan
+         sodipodi:role="line"
+         x="16.815449"
+         y="482.38708"
+         id="tspan6182">Услуги спецтехники</tspan><tspan
+         sodipodi:role="line"
+         x="16.815449"
+         y="494.88708"
+         id="tspan6190">Разработка котлованов</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;filter:url(#filter6219);font-family:Sans;-inkscape-font-specification:Sans"
+       x="135.50822"
+       y="470.00916"
+       id="text6199"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6201"
+         x="135.50822"
+         y="470.00916">Сыпучие стройматериалы</tspan><tspan
+         sodipodi:role="line"
+         x="135.50822"
+         y="482.50916"
+         id="tspan6203">Уголь</tspan><tspan
+         sodipodi:role="line"
+         x="135.50822"
+         y="495.00916"
+         id="tspan6205">Шлакоблок</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.16041756px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter6237);font-family:Sans;-inkscape-font-specification:Sans"
+       x="70.674866"
+       y="511.7511"
+       id="text6231"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.70152348,0,0,0.70152348,19.751528,150.20412)"><tspan
+         sodipodi:role="line"
+         id="tspan6233"
+         x="72.499847"
+         y="511.7511">Переезды от </tspan><tspan
+         sodipodi:role="line"
+         x="70.674866"
+         y="528.2016"
+         id="tspan6235">«Транс-Алрус»</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.81547689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="14.172452"
+       y="521.40131"
+       id="text6249"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98989525,1.0102079)"><tspan
+         sodipodi:role="line"
+         id="tspan6251"
+         x="14.172452"
+         y="521.40131"
+         style="font-size:5.93937159px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;font-family:Sans;-inkscape-font-specification:Sans">Предоставленные нами грузчики выполнят </tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="528.8255"
+         id="tspan6267"
+         style="font-size:5.93937159px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;font-family:Sans;-inkscape-font-specification:Sans">погрузочно-разгрузочные работы при:</tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="536.14624"
+         id="tspan6269">- офисном переезде;</tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="543.41559"
+         id="tspan6255">- квартирном, дачном переезде;</tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="550.68488"
+         id="tspan6257">- перевозке мебели, бытовой техники;</tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="557.95422"
+         id="tspan6259">- перевозке сейфов;</tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="565.22357"
+         id="tspan6261">- погрузке, разгрузке фур;</tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="572.49292"
+         id="tspan6263">- вывозе строительного мусора;</tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="579.76227"
+         id="tspan6265">- других погрузочно-разгрузочных работах. </tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="587.03162"
+         id="tspan6273" /><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="594.30096"
+         id="tspan6275">Бригады опытных грузчиков в любое время </tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="601.57031"
+         id="tspan6283">суток выполнят быстро и качественно </tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="608.83966"
+         id="tspan6285">складские работы любой сложности </tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="616.10901"
+         id="tspan6287">(грузчик на склад):</tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="623.37836"
+         id="tspan6277">- приём товара на складе;</tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="630.64771"
+         id="tspan6279">- сортировка, упаковка и маркировка товара;</tspan><tspan
+         sodipodi:role="line"
+         x="14.172452"
+         y="637.91705"
+         id="tspan6281">- перемещение товара по территории склада. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.90711164px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="14.829969"
+       y="630.92773"
+       id="text6289"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96670223,1.0344447)"><tspan
+         sodipodi:role="line"
+         id="tspan6291"
+         x="14.829969"
+         y="630.92773"> Донецк:ул. Розы Люксембург 13,офис 314.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.27786922px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter6299);font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="15.352319"
+       y="655.47839"
+       id="text6293"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98973384,0,0,1.0103726,-0.31104268,-0.41587271)"><tspan
+         sodipodi:role="line"
+         id="tspan6295"
+         x="15.352319"
+         y="655.47839">Телефон: (095)166-16-66</tspan><tspan
+         sodipodi:role="line"
+         x="15.352319"
+         y="668.32574"
+         id="tspan6297">Факс: (062)330-77-78</tspan></text>
+    <image
+       y="774.63739"
+       x="199.06706"
+       id="image6330"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B/%D0%90%D0%B2%D1%82%D0%BE%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8/%D0%93%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA%D0%B82.png"
+       height="64.035507"
+       width="60.033291" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.22061253px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="16.201612"
+       y="817.7005"
+       id="text6333"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6335"
+         x="16.201612"
+         y="817.7005">Офисный переезд - без хлопот</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.69732475px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter6341);font-family:BankGothic RUSS;-inkscape-font-specification:BankGothic RUSS"
+       x="28.133371"
+       y="719.95148"
+       id="text6337"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.79607637,0,0,1.2561609,-8.4278177e-6,-106.30602)"><tspan
+         sodipodi:role="line"
+         id="tspan6339"
+         x="28.133371"
+         y="719.95148">ЧП Транс-Ком+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.110116px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="15.115004"
+       y="836.82715"
+       id="text6353"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="15.115004"
+         y="836.82715"
+         id="tspan6357">Квартирные, офисные, загородные </tspan><tspan
+         sodipodi:role="line"
+         x="15.115004"
+         y="850.71478"
+         id="tspan6359">переезды с полным комплексом услуг, </tspan><tspan
+         sodipodi:role="line"
+         x="15.115004"
+         y="864.60242"
+         id="tspan6367">включая сборку, разборку и упаковку мебели.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter6403);font-family:Sans;-inkscape-font-specification:Sans"
+       x="14.647212"
+       y="979.63116"
+       id="text6369"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.2146195,0,0,1.2146195,-2.9466584,-303.98866)"><tspan
+         sodipodi:role="line"
+         id="tspan6371"
+         x="14.647212"
+         y="979.63116">Украина г. Донецк ул. Беранже д. 2</tspan><tspan
+         sodipodi:role="line"
+         x="14.647212"
+         y="994.63116"
+         id="tspan6415">Телефон: +38 (050) 8174211</tspan><tspan
+         sodipodi:role="line"
+         x="14.647212"
+         y="1009.6312"
+         id="tspan6375">Факс: +38 (062) 3300185</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.92002916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="140.54207"
+       y="528.76105"
+       id="text6417"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6419"
+         x="140.54207"
+         y="528.76105">Автовышка (телескопическая, </tspan><tspan
+         sodipodi:role="line"
+         x="140.54207"
+         y="538.66107"
+         id="tspan6421">маленькая, юркая) 12м.</tspan><tspan
+         sodipodi:role="line"
+         x="140.54207"
+         y="548.5611"
+         id="tspan6423">Есть кузов для перевозки </tspan><tspan
+         sodipodi:role="line"
+         x="140.54207"
+         y="558.46118"
+         id="tspan6425">материала. Расчет нал./без.нал.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;filter:url(#filter6451);font-family:Sans;-inkscape-font-specification:Sans"
+       x="146.0995"
+       y="514.39496"
+       id="text6427"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6429"
+         x="146.0995"
+         y="514.39496">Аренда автовышки</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.31379032px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter6439);font-family:Sans;-inkscape-font-specification:Sans"
+       x="143.38963"
+       y="578.39612"
+       id="text6431"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="143.38963"
+         y="578.39612"
+         id="tspan6435">+380623332828</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.87591648px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="202.40233"
+       y="593.85406"
+       id="text6463"
+       sodipodi:linespacing="100%"
+       transform="scale(0.98965973,1.0104483)"><tspan
+         sodipodi:role="line"
+         id="tspan6465"
+         x="204.04918"
+         y="593.85406">Вывоз мусора. </tspan><tspan
+         sodipodi:role="line"
+         x="202.40233"
+         y="605.72998"
+         id="tspan6467">Сыпучие. Самосвалы.</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6469"
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="matrix(1.0349517,0,0,1.1255509,-5.3520303,261.96892)"><flowRegion
+         id="flowRegion6471"><rect
+           id="rect6473"
+           width="120.71323"
+           height="29.185699"
+           x="139.90613"
+           y="313.7695"
+           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000080;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara6475">Вывоз строительного и бытового мусора,грунта,листьев,деревьев,снега самосвалами (ЗИЛЫ,КАМАЗЫ). Погрузка мусора экскаватором, грузчиками. </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:10.5403471px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter6485);font-family:Sans;-inkscape-font-specification:Sans"
+       x="132.22751"
+       y="777.56891"
+       id="text6477"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.1877797,0,0,0.84190696,-0.45388024,0.24510362)"><tspan
+         sodipodi:role="line"
+         id="tspan6479"
+         x="132.22751"
+         y="777.56891">050-998-32-35,</tspan><tspan
+         sodipodi:role="line"
+         x="132.22751"
+         y="790.74432"
+         id="tspan6481">063-330-13-13, </tspan><tspan
+         sodipodi:role="line"
+         x="132.22751"
+         y="803.9198"
+         id="tspan6483">304-11-11.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.26761341px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="264.65744"
+       y="329.62427"
+       id="text6497"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6499"
+         x="264.65744"
+         y="329.62427">Аварийное открытие автомобилей,квартир,сейфов</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter6507);font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="312.64221"
+       y="342.51068"
+       id="text6501"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6503"
+         x="312.64221"
+         y="342.51068">г.Донецк б.Шевченко 8а </tspan><tspan
+         sodipodi:role="line"
+         x="312.64221"
+         y="357.51068"
+         id="tspan6505">т.0508300683 т.0623496847 </tspan></text>
+  </g>
+</svg>
