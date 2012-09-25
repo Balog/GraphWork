@@ -46,7 +46,7 @@
      inkscape:showpageshadow="false">
     <sodipodi:guide
        orientation="1,0"
-       position="14.328786,184.15144"
+       position="14.173228,184.15144"
        id="guide3026" />
     <sodipodi:guide
        orientation="0,1"
@@ -54,7 +54,7 @@
        id="guide3055" />
     <sodipodi:guide
        orientation="0,1"
-       position="-27.596181,13.798091"
+       position="-27.596181,14.173228"
        id="guide3057" />
     <sodipodi:guide
        orientation="1,0"
@@ -62,20 +62,36 @@
        id="guide3059" />
     <sodipodi:guide
        orientation="1,0"
-       position="7.0866142,81.727152"
+       position="3.5433071,81.727152"
        id="guide2988" />
     <sodipodi:guide
        orientation="1,0"
-       position="318.89764,83.319239"
+       position="322.44094,83.319239"
        id="guide2990" />
     <sodipodi:guide
        orientation="0,1"
-       position="177.16535,177.16535"
+       position="177.16535,180.70866"
        id="guide2992" />
     <sodipodi:guide
        orientation="0,1"
-       position="148.06413,7.0866142"
+       position="148.06413,3.5433071"
        id="guide2994" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="69.521148,0"
+       id="guide2993" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,62.091407"
+       id="guide2995" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="75.358802,184.25197"
+       id="guide2997" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="325.98425,72.705323"
+       id="guide2999" />
   </sodipodi:namedview>
   <metadata
      id="metadata3021">

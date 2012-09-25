@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="325.98425"
+   height="184.25197"
+   id="svg3016"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="1.svg"
+   inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Андрей авторынок\1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs3018">
+    <filter
+       inkscape:collect="always"
+       id="filter3871">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.91239008"
+         id="feGaussianBlur3873" />
+    </filter>
+    <filter
+       id="filter3947"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3949"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3951"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3953"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset3955"
+         dx="1.5"
+         dy="1.5"
+         result="offset" />
+      <feComposite
+         id="feComposite3957"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3959"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3961"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3963"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3965"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset3967"
+         dx="1.5"
+         dy="1.5"
+         result="offset" />
+      <feComposite
+         id="feComposite3969"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.66620727"
+     inkscape:cx="144.81254"
+     inkscape:cy="61.229919"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="1052.36px"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="false">
+    <sodipodi:guide
+       orientation="1,0"
+       position="14.173228,184.15144"
+       id="guide3026" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0.53069579,170.35335"
+       id="guide3055" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-27.596181,14.173228"
+       id="guide3057" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="312.04912,170.35335"
+       id="guide3059" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="3.5433071,81.727152"
+       id="guide2988" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="322.44094,83.319239"
+       id="guide2990" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="177.16535,180.70866"
+       id="guide2992" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="148.06413,3.5433071"
+       id="guide2994" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="69.521148,0"
+       id="guide2993" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,62.091407"
+       id="guide2995" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="75.358802,184.25197"
+       id="guide2997" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="325.98425,72.705323"
+       id="guide2999" />
+    <sodipodi:guide
+       orientation="-0.24615386,-0.96923077"
+       position="210.15553,-70.051844"
+       id="guide3067" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3021">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-868.11019)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3971"
+       width="325.815"
+       height="184.08705"
+       x="0.15543722"
+       y="868.24292" />
+    <g
+       id="g4713"
+       transform="matrix(1.1005474,0.05813505,-0.05813505,1.1005474,61.503623,-108.88848)">
+      <g
+         transform="matrix(0.75397778,0,0,0.75397778,34.682875,248.49643)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="opacity:0.64351849;fill:#dcd2ff;fill-opacity:1;filter:url(#filter3871)"
+         id="g3837">
+        <text
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-368.25858"
+           y="1046.3292"
+           id="text3023"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             sodipodi:role="line"
+             x="-368.25858"
+             y="1046.3292"
+             id="tspan3027">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3031"
+           y="1086.6316"
+           x="-319.78763"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             id="tspan3033"
+             y="1086.6316"
+             x="-319.78763"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-407.65042"
+           y="1011.8093"
+           id="text3035"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             sodipodi:role="line"
+             x="-407.65042"
+             y="1011.8093"
+             id="tspan3037">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3039"
+           y="979.19043"
+           x="-446.04578"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             id="tspan3041"
+             y="979.19043"
+             x="-446.04578"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-489.64874"
+           y="942.51306"
+           id="text3043"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             sodipodi:role="line"
+             x="-489.64874"
+             y="942.51306"
+             id="tspan3045">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           sodipodi:linespacing="125%"
+           id="text3047"
+           y="871.11865"
+           x="-576.11475"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"><tspan
+             id="tspan3049"
+             y="871.11865"
+             x="-576.11475"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-528.59167"
+           y="906.1994"
+           id="text3051"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-528.59167"
+             y="906.1994"
+             id="tspan3053">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           sodipodi:linespacing="125%"
+           id="text3055"
+           y="833.27576"
+           x="-617.40436"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"><tspan
+             id="tspan3057"
+             y="833.27576"
+             x="-617.40436"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-660.0708"
+           y="797.33276"
+           id="text3059"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-660.0708"
+             y="797.33276"
+             id="tspan3061">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           sodipodi:linespacing="125%"
+           id="text3063"
+           y="760.18115"
+           x="-702.24957"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"><tspan
+             id="tspan3065"
+             y="760.18115"
+             x="-702.24957"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+      </g>
+      <g
+         id="g4629"
+         style="opacity:0.64351849;fill:#dcd2ff;fill-opacity:1;filter:url(#filter3871)"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="matrix(0.75397778,0,0,0.75397778,342.48643,89.287693)">
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4631"
+           y="1046.3292"
+           x="-368.25858"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"><tspan
+             id="tspan4633"
+             y="1046.3292"
+             x="-368.25858"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-319.78763"
+           y="1086.6316"
+           id="text4635"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-319.78763"
+             y="1086.6316"
+             id="tspan4637">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4639"
+           y="1011.8093"
+           x="-407.65042"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"><tspan
+             id="tspan4641"
+             y="1011.8093"
+             x="-407.65042"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-446.04578"
+           y="979.19043"
+           id="text4643"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-446.04578"
+             y="979.19043"
+             id="tspan4645">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4647"
+           y="942.51306"
+           x="-489.64874"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"><tspan
+             id="tspan4649"
+             y="942.51306"
+             x="-489.64874"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-576.11475"
+           y="871.11865"
+           id="text4651"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             sodipodi:role="line"
+             x="-576.11475"
+             y="871.11865"
+             id="tspan4653">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4655"
+           y="906.1994"
+           x="-528.59167"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             id="tspan4657"
+             y="906.1994"
+             x="-528.59167"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-617.40436"
+           y="833.27576"
+           id="text4659"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             sodipodi:role="line"
+             x="-617.40436"
+             y="833.27576"
+             id="tspan4661">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4663"
+           y="797.33276"
+           x="-660.0708"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             id="tspan4665"
+             y="797.33276"
+             x="-660.0708"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-702.24957"
+           y="760.18115"
+           id="text4667"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             sodipodi:role="line"
+             x="-702.24957"
+             y="760.18115"
+             id="tspan4669">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.75397778,0,0,0.75397778,-269.93651,408.76656)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="opacity:0.64351849;fill:#dcd2ff;fill-opacity:1;filter:url(#filter3871)"
+         id="g4671">
+        <text
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-368.25858"
+           y="1046.3292"
+           id="text4673"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             sodipodi:role="line"
+             x="-368.25858"
+             y="1046.3292"
+             id="tspan4675">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4677"
+           y="1086.6316"
+           x="-319.78763"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             id="tspan4679"
+             y="1086.6316"
+             x="-319.78763"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-407.65042"
+           y="1011.8093"
+           id="text4681"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             sodipodi:role="line"
+             x="-407.65042"
+             y="1011.8093"
+             id="tspan4683">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4685"
+           y="979.19043"
+           x="-446.04578"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             id="tspan4687"
+             y="979.19043"
+             x="-446.04578"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-489.64874"
+           y="942.51306"
+           id="text4689"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"><tspan
+             sodipodi:role="line"
+             x="-489.64874"
+             y="942.51306"
+             id="tspan4691">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4693"
+           y="871.11865"
+           x="-576.11475"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"><tspan
+             id="tspan4695"
+             y="871.11865"
+             x="-576.11475"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-528.59167"
+           y="906.1994"
+           id="text4697"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-528.59167"
+             y="906.1994"
+             id="tspan4699">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4701"
+           y="833.27576"
+           x="-617.40436"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"><tspan
+             id="tspan4703"
+             y="833.27576"
+             x="-617.40436"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           xml:space="preserve"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-660.0708"
+           y="797.33276"
+           id="text4705"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-660.0708"
+             y="797.33276"
+             id="tspan4707">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+        <text
+           transform="matrix(0.89430277,-0.44746235,0.44746235,0.89430277,0,0)"
+           sodipodi:linespacing="125%"
+           id="text4709"
+           y="760.18115"
+           x="-702.24957"
+           style="font-size:23.55247498px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dcd2ff;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           xml:space="preserve"><tspan
+             id="tspan4711"
+             y="760.18115"
+             x="-702.24957"
+             sodipodi:role="line">Lanos, Sens, Таврия, Cevrolet, ВАЗ</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:0.375;fill:#242178;fill-opacity:1;stroke:none;display:none"
+       id="rect3028"
+       width="425.82224"
+       height="155.90552"
+       x="-35.859974"
+       y="882.28345" />
+    <rect
+       style="fill:#242178;fill-opacity:1;stroke:none;display:none"
+       id="rect3028-1"
+       width="297.63779"
+       height="245.62006"
+       x="14.173228"
+       y="835.08856" />
+    <text
+       xml:space="preserve"
+       style="font-size:43.84851837px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter3959);font-family:BankGothic RUSS;-inkscape-font-specification:BankGothic RUSS Bold"
+       x="12.928578"
+       y="905.11597"
+       id="text3001"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Андрей авторынок\text3013.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3003"
+         x="12.928578"
+         y="905.11597">АВТОРЫНОК</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="162.8515"
+       y="921.28027"
+       id="text3005"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Андрей авторынок\text3013.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3007"
+         x="162.8515"
+         y="921.28027">(Калининский район, автомагазин)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.86397934px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monotype Corsiva;-inkscape-font-specification:Monotype Corsiva Oblique"
+       x="129.30054"
+       y="940.04553"
+       id="text3009"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Андрей авторынок\text3013.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3011"
+         x="129.30054"
+         y="940.04553">дядя Слава</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.04565048px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gungsuh;-inkscape-font-specification:Gungsuh Bold"
+       x="14.361836"
+       y="970.93347"
+       id="text3013"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3015"
+         x="14.361836"
+         y="970.93347">Зап.части: Lanos, Sens, Таврия, </tspan><tspan
+         sodipodi:role="line"
+         x="14.361836"
+         y="992.24054"
+         id="tspan3017">Cevrolet, ВАЗ все модели и т.д.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.73055649000000100px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Minion Pro SmBd;-inkscape-font-specification:Minion Pro SmBd Semi-Bold;filter:url(#filter3947)"
+       x="135.63831"
+       y="1034.0242"
+       id="text3019"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3021"
+         x="135.63831"
+         y="1034.0242">т. (095) 677-38-76</tspan></text>
+  </g>
+</svg>
