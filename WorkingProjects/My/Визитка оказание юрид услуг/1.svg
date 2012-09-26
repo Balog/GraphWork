@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="325.98425"
+   height="184.25197"
+   id="svg3016"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="1.svg"
+   inkscape:export-filename="D:\GraphWork\WorkingProjects\My\Визитка Апелла\Визитка 1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs3018">
+    <filter
+       id="filter3990"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3992"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3994"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3996"
+         in="composite"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset3998"
+         dx="1.5"
+         dy="1.5"
+         result="offset" />
+      <feComposite
+         id="feComposite4000"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4002"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood4004"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4006"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4008"
+         in="composite"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset4010"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         id="feComposite4012"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3112"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3114"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3116"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3118"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset3120"
+         dx="0.9"
+         dy="0.9"
+         result="offset" />
+      <feComposite
+         id="feComposite3122"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3150"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3152"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3154"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3156"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset3158"
+         dx="0.9"
+         dy="0.9"
+         result="offset" />
+      <feComposite
+         id="feComposite3160"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.5600001"
+     inkscape:cx="232.817"
+     inkscape:cy="100.35065"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="1052.36px"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="false">
+    <sodipodi:guide
+       orientation="1,0"
+       position="14.328786,184.15144"
+       id="guide3026" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0.53069579,170.35335"
+       id="guide3055" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-27.596181,13.798091"
+       id="guide3057" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="312.04912,170.35335"
+       id="guide3059" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3021">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-868.11019)">
+    <rect
+       style="opacity:0.375;fill:#242178;fill-opacity:1;stroke:none;display:none"
+       id="rect3028"
+       width="425.82224"
+       height="155.90552"
+       x="-35.859974"
+       y="882.28345" />
+    <rect
+       style="fill:#242178;fill-opacity:1;stroke:none;display:none"
+       id="rect3028-1"
+       width="297.63779"
+       height="245.62006"
+       x="14.173228"
+       y="835.08856" />
+    <rect
+       style="fill:#efe5ca;fill-opacity:1;stroke:none"
+       id="rect2989"
+       width="325.31653"
+       height="183.62074"
+       x="6.6010344e-009"
+       y="868.21075" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="148.4375"
+       y="65.501968"
+       id="text3806"
+       sodipodi:linespacing="125%"
+       transform="translate(0,868.11019)"><tspan
+         sodipodi:role="line"
+         id="tspan3808"
+         x="148.4375"
+         y="65.501968"> </tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3810"
+       style="font-size:11.12265778px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#83594b;fill-opacity:1;stroke:none;font-family:Century Gothic;-inkscape-font-specification:Century Gothic Bold"
+       transform="matrix(0.89360082,0,0,0.89360082,-22.615113,895.7787)"><flowRegion
+         id="flowRegion3812"><rect
+           id="rect3814"
+           width="272.69379"
+           height="137.41594"
+           x="54.655354"
+           y="16.161604"
+           style="font-size:11.12265778px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;fill:#83594b;fill-opacity:1;font-family:Century Gothic;-inkscape-font-specification:Century Gothic Bold"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara3816">Регистрация OOO, ЧП, СПД</flowPara><flowPara
+         id="flowPara3818">Смена КВЭД</flowPara><flowPara
+         id="flowPara3822">Извлечения (Витяги)</flowPara><flowPara
+         id="flowPara3824">Выписки, справки</flowPara><flowPara
+         id="flowPara3826">Сопровождение хозяйственных,                         гражданских, семейных, трудовых судебных производств</flowPara><flowPara
+         id="flowPara3050">Изменения в Устав и т.д.</flowPara></flowRoot>    <path
+       style="fill:#83594b;fill-opacity:1;stroke:#000000;stroke-width:0.03954586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 15.441182,914.85175 0.84962,-1.7765 c 1.3374,1.1586 1.61702,1.6336 2.08098,2.7149 2.0578,-2.9545 2.77158,-4.2967 5.22397,-5.8701 l 0.0772,2.2281 c -2.37197,1.0972 -3.28068,3.2671 -5.45569,4.955 -0.99873,-1.0352 -0.55564,-1.3567 -2.77612,-2.2514 z"
+       id="path3828"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3869"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion3871"><rect
+           id="rect3873"
+           width="167.93787"
+           height="39.222328"
+           x="128.71553"
+           y="130.11411" /></flowRegion><flowPara
+         id="flowPara3875" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3877"
+       style="font-size:9.14241982px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#83594b;fill-opacity:1;stroke:none;font-family:Century Gothic;-inkscape-font-specification:Century Gothic Bold"
+       transform="matrix(1.3728939,0,0,1.3728939,-173.83318,838.32061)"><flowRegion
+         id="flowRegion3879"><rect
+           id="rect3881"
+           width="243.06795"
+           height="45.29903"
+           x="110.48544"
+           y="124.58984"
+           style="font-size:9.14241982px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#83594b;fill-opacity:1;font-family:Century Gothic;-inkscape-font-specification:Century Gothic Bold" /></flowRegion><flowPara
+         id="flowPara3883"
+         style="font-size:9.14241982px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#83594b;fill-opacity:1;font-family:Century Gothic;-inkscape-font-specification:Century Gothic Bold">83050, Донецк, ул. 50-лет СССР 142</flowPara><flowPara
+         style="font-size:9.14241982px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#83594b;fill-opacity:1;font-family:Century Gothic;-inkscape-font-specification:Century Gothic Bold"
+         id="flowPara3885">тел. (095) 343-0234, (050) 705-74-59</flowPara><flowPara
+         style="font-size:9.14241982px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#83594b;fill-opacity:1;font-family:Century Gothic;-inkscape-font-specification:Century Gothic Bold"
+         id="flowPara3887" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:18.25953102px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#83594b;fill-opacity:1;stroke:none;font-family:Monotype Corsiva;-inkscape-font-specification:Monotype Corsiva Oblique"
+       x="36.592861"
+       y="895.46082"
+       id="text3124"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3126"
+         x="36.592861"
+         y="895.46082">Оказание юридических услуг</tspan></text>
+    <image
+       y="882.46057"
+       x="240.32538"
+       id="image3136"
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0%20%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%8E%D1%80%D0%B8%D0%B4%20%D1%83%D1%81%D0%BB%D1%83%D0%B3/%D1%84%D0%B5%D0%BC%D0%B8%D0%B4%D0%B0.png"
+       height="77.172279"
+       width="77.172279"
+       style="filter:url(#filter3150)" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path3162"
+       d="m 15.441182,926.46113 0.84962,-1.7765 c 1.3374,1.1586 1.61702,1.6336 2.08098,2.7149 2.0578,-2.9545 2.77158,-4.2967 5.22397,-5.8701 l 0.0772,2.2281 c -2.37197,1.0972 -3.28068,3.2671 -5.45569,4.955 -0.99873,-1.0352 -0.55564,-1.3567 -2.77612,-2.2514 z"
+       style="fill:#83594b;fill-opacity:1;stroke:#000000;stroke-width:0.03954586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:#83594b;fill-opacity:1;stroke:#000000;stroke-width:0.03954586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 15.441182,937.39849 0.84962,-1.7765 c 1.3374,1.1586 1.61702,1.6336 2.08098,2.7149 2.0578,-2.9545 2.77158,-4.2967 5.22397,-5.8701 l 0.0772,2.2281 c -2.37197,1.0972 -3.28068,3.2671 -5.45569,4.955 -0.99873,-1.0352 -0.55564,-1.3567 -2.77612,-2.2514 z"
+       id="path3164"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path3166"
+       d="m 15.441182,948.33585 0.84962,-1.7765 c 1.3374,1.1586 1.61702,1.6336 2.08098,2.7149 2.0578,-2.9545 2.77158,-4.2967 5.22397,-5.8701 l 0.0772,2.2281 c -2.37197,1.0972 -3.28068,3.2671 -5.45569,4.955 -0.99873,-1.0352 -0.55564,-1.3567 -2.77612,-2.2514 z"
+       style="fill:#83594b;fill-opacity:1;stroke:#000000;stroke-width:0.03954586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:#83594b;fill-opacity:1;stroke:#000000;stroke-width:0.03954586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 15.441182,960.05445 0.84962,-1.7765 c 1.3374,1.1586 1.61702,1.6336 2.08098,2.7149 2.0578,-2.9545 2.77158,-4.2967 5.22397,-5.8701 l 0.0772,2.2281 c -2.37197,1.0972 -3.28068,3.2671 -5.45569,4.955 -0.99873,-1.0352 -0.55564,-1.3567 -2.77612,-2.2514 z"
+       id="path3168"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path3170"
+       d="m 15.441182,992.25747 0.84962,-1.7765 c 1.3374,1.1586 1.61702,1.6336 2.08098,2.7149 2.0578,-2.9545 2.77158,-4.2967 5.22397,-5.8701 l 0.0772,2.2281 c -2.37197,1.0972 -3.28068,3.2671 -5.45569,4.955 -0.99873,-1.0352 -0.55564,-1.3567 -2.77612,-2.2514 z"
+       style="fill:#83594b;fill-opacity:1;stroke:#000000;stroke-width:0.03954586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+</svg>
