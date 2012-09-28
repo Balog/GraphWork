@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="325.98425"
+   height="184.25197"
+   id="svg3016">
+  <defs
+     id="defs3018">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path4007"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3900">
+      <feFlood
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.504"
+         id="feFlood3902" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite3904" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="0.3"
+         id="feGaussianBlur3906" />
+      <feOffset
+         result="offset"
+         dy="0.7"
+         dx="0.8"
+         id="feOffset3908" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="composite2"
+         id="feComposite3910" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3914">
+      <feFlood
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.504"
+         id="feFlood3916" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite3918" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="0.3"
+         id="feGaussianBlur3920" />
+      <feOffset
+         result="offset"
+         dy="0.7"
+         dx="0.8"
+         id="feOffset3922" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="composite2"
+         id="feComposite3924" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata3021">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-868.11019)"
+     id="layer1">
+    <rect
+       width="325.31653"
+       height="183.62074"
+       x="0.24145207"
+       y="868.33057"
+       id="rect2989"
+       style="fill:#efe5ca;fill-opacity:1;stroke:none" />
+    <rect
+       width="425.82224"
+       height="155.90552"
+       x="-35.859974"
+       y="882.28345"
+       id="rect3028"
+       style="opacity:0.375;fill:#242178;fill-opacity:1;stroke:none;display:none" />
+    <rect
+       width="297.63779"
+       height="245.62006"
+       x="14.173228"
+       y="835.08856"
+       id="rect3028-1"
+       style="fill:#242178;fill-opacity:1;stroke:none;display:none" />
+    <path
+       d="m 271.96453,1026.4907 0,-24.014 -170.98874,0 0,24.0804"
+       id="path2997"
+       style="fill:none;stroke:#9e804c;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 283.63984,1026.4907 0.13267,-23.8813 15.50955,-0.1327"
+       id="path2999"
+       style="fill:none;stroke:#9e804c;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="183.37625"
+       y="998.04767"
+       id="text3841-4"
+       xml:space="preserve"
+       style="font-size:6.32819462px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="183.37625"
+         y="998.04767"
+         id="tspan3843-0">ул. 50-летия СССР</tspan></text>
+    <text
+       x="919.72144"
+       y="-275.8031"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="text3841-9"
+       xml:space="preserve"
+       style="font-size:6.32819462px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="919.72144"
+         y="-275.8031"
+         id="tspan3843-4">бул. Шевченко</tspan></text>
+    <path
+       d="m 100.53888,904.81884 171.29298,0.14256 0.13267,85.30935 -171.81088,0 z"
+       id="path3073"
+       style="fill:none;stroke:#9e804c;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 283.62893,882.53951 0,22.31131 m 17.12585,60.99803 -17.11494,0.01 0,-60.89734"
+       id="path3077"
+       style="fill:none;stroke:#9e824c;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 100.27353,881.94247 1e-5,10.68025 170.61869,-0.0663 0,-10.54758"
+       id="path3079"
+       style="fill:none;stroke:#9e804c;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 85.679401,882.00881 0,10.68025 -23.350615,-0.0663"
+       id="path3081"
+       style="fill:none;stroke:#9e804c;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 62.328786,904.82873 23.350615,0 0,85.44202 -22.289223,0"
+       id="path3083"
+       style="fill:none;stroke:#9e804c;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 62.859482,1002.4767 22.289223,0 0,24.1467"
+       id="path3085"
+       style="fill:none;stroke:#9e804c;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <image
+       xlink:href="file:///D:/GraphWork/WorkingProjects/My/%D0%92%D0%B8%D0%B7%D0%B8%D1%82%D0%BA%D0%B0%20%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%8E%D1%80%D0%B8%D0%B4%20%D1%83%D1%81%D0%BB%D1%83%D0%B3/%D1%84%D0%B5%D0%BC%D0%B8%D0%B4%D0%B0.png"
+       x="2.2565968"
+       y="898.35962"
+       width="76.585968"
+       height="76.585968"
+       id="image3095"
+       style="filter:url(#filter3914)" />
+    <path
+       d="m 216.75381,944.45636 c 9.41451,0 38.82903,0 48.24354,0 l 0,39.91924 -48.24354,0 0,-9.69197 32,-0.12784 0,-19.88043 -32,-0.25569 z"
+       id="rect3110"
+       style="fill:#9e804c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="-955.35046"
+       y="301.07932"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text3886"
+       xml:space="preserve"
+       style="font-size:9.12929153px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="-955.35046"
+         y="301.07932"
+         id="tspan3888">Крытый рынок</tspan></text>
+    <text
+       x="179.62367"
+       y="900.85571"
+       id="text3890"
+       xml:space="preserve"
+       style="font-size:6.32819462px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="179.62367"
+         y="900.85571"
+         id="tspan3892">ул. Федора Зайцева</tspan></text>
+    <text
+       x="-980.19543"
+       y="95.623901"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text3894"
+       xml:space="preserve"
+       style="font-size:6.32819462px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="-980.19543"
+         y="95.623901"
+         id="tspan3896">пр. Театральный</tspan></text>
+    <text
+       x="-966.74377"
+       y="259.88919"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text3898"
+       xml:space="preserve"
+       style="font-size:8.45138073px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="-966.74377"
+         y="259.88919"
+         id="tspan3900">МТС</tspan></text>
+    <path
+       d="m 248.75381,934.3756 16.24354,0 0,-21.91924 -44.24354,0 0,9.69197 28,0.12784 z"
+       id="path3805"
+       style="fill:#9e804c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       width="33.033291"
+       height="10.893036"
+       x="182.37042"
+       y="923.26782"
+       id="rect3809"
+       style="fill:#9e804c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.98946291;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="29.335396"
+       height="10.947724"
+       x="145.94299"
+       y="913.10852"
+       id="rect3811"
+       style="fill:#9e804c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.93477482;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="m 137.88029,923.92129 0,-10.99406 -21.91924,0 0,24.24354 9.69197,0 0.12784,-13.24948 z"
+       id="path3813"
+       style="fill:#9e804c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 192.99735,964.45636 -10.24354,0 0,19.91924 26.24354,0 0,-9.69197 -16,-0.12784 z"
+       id="path3815"
+       style="fill:#9e804c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       width="29.335396"
+       height="10.947724"
+       x="147.44403"
+       y="973.46051"
+       id="rect3817"
+       style="fill:#9e804c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.93477482;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="33.033291"
+       height="10.893036"
+       x="-964.36914"
+       y="158.91676"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="rect3819"
+       style="fill:#9e804c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.98946291;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="33.033291"
+       height="10.893036"
+       x="-974.12585"
+       y="115.76202"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="rect3821"
+       style="fill:#9e804c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.98946291;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="19.740961"
+       height="11.110013"
+       x="123.34634"
+       y="973.37933"
+       id="rect3823"
+       style="fill:#9e804c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.77248585;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="31.183908"
+       height="10.919946"
+       x="217.38387"
+       y="1008.4382"
+       id="rect3825"
+       style="fill:#9e804c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.96255291;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="48.594559"
+       height="10.693444"
+       x="152.20212"
+       y="1008.5515"
+       id="rect3827"
+       style="fill:#9e804c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.18905449;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="39.697247"
+       height="10.802339"
+       x="107.11665"
+       y="1008.497"
+       id="rect3829"
+       style="fill:#9e804c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.08016026;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       x="148.14854"
+       y="919.77338"
+       id="text3831"
+       xml:space="preserve"
+       style="font-size:5.89359617px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="148.14854"
+         y="919.77338"
+         id="tspan3833">Эстетика</tspan></text>
+    <rect
+       width="7.5051718"
+       height="7.1299133"
+       x="127.96318"
+       y="976.40448"
+       id="rect3835"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="63.418144"
+       height="14.859482"
+       x="15.12483"
+       y="111.812"
+       transform="translate(0,868.11019)"
+       id="rect3850"
+       style="fill:#efe5ca;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       x="46.521145"
+       y="986.57208"
+       id="text3837"
+       xml:space="preserve"
+       style="font-size:5.19990444px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;filter:url(#filter3900);font-family:Sans;-inkscape-font-specification:Sans Bold"><tspan
+         x="46.521145"
+         y="986.57208"
+         id="tspan3839">Оказание юридических</tspan><tspan
+         x="46.521145"
+         y="993.07196"
+         id="tspan3841">услуг</tspan></text>
+    <path
+       d="m 15.138188,127.96318 103.068262,0 10.09589,-10.09588"
+       transform="translate(0,868.11019)"
+       id="path3843"
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 119.33684,991.38318 3.14322,0.30145 7.17002,-7.41205 -10.31324,7.11062 z m 3.2106,0.36657 0.42804,3.15322 6.74199,-10.56526 -7.17003,7.41204 z"
+       id="path3845"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.4246555px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 308.33425,117.64965 a 14.063438,13.002047 0 1 1 -28.12688,0 14.063438,13.002047 0 1 1 28.12688,0 z"
+       transform="translate(0.5306959,865.98741)"
+       id="path3912"
+       style="fill:#efe5ca;fill-opacity:1;fill-rule:nonzero;stroke:#9e804c;stroke-width:2.29999995;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+  </g>
+</svg>
