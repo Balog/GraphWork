@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="1.svg">
+   sodipodi:docname="Шаблон тематики.svg">
   <defs
      id="defs4">
     <filter
@@ -59,7 +59,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
      inkscape:cx="279.67514"
-     inkscape:cy="712.2032"
+     inkscape:cy="267.73608"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -131,7 +131,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -214,9 +214,9 @@
        style="fill:#d7d7f4;fill-opacity:0.89743593;stroke:none"
        id="rect3027"
        width="136.1586"
-       height="88.58268"
+       height="44.29134"
        x="388.03967"
-       y="786.13" />
+       y="786.2757" />
     <rect
        y="874.5766"
        x="262.69357"
@@ -316,5 +316,12 @@
          x="206.60539"
          id="tspan4306"
          sodipodi:role="line">Все для строительства</tspan></text>
+    <rect
+       y="830.2757"
+       x="388.03967"
+       height="44.29134"
+       width="136.1586"
+       id="rect4239"
+       style="fill:#aa0000;fill-opacity:0.89743593;stroke:none" />
   </g>
 </svg>
