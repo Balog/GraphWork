@@ -622,37 +622,6 @@
          operator="over"
          result="composite2" />
     </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter4996-1"
-       inkscape:label="Drop Shadow">
-      <feFlood
-         id="feFlood4998-7"
-         flood-opacity="0.616"
-         flood-color="rgb(0,0,0)"
-         result="flood" />
-      <feComposite
-         id="feComposite5000-4"
-         in2="SourceGraphic"
-         in="flood"
-         operator="in"
-         result="composite1" />
-      <feGaussianBlur
-         id="feGaussianBlur5002-0"
-         stdDeviation="0.5"
-         result="blur" />
-      <feOffset
-         id="feOffset5004-9"
-         dx="1"
-         dy="1"
-         result="offset" />
-      <feComposite
-         id="feComposite5006-4"
-         in2="offset"
-         in="SourceGraphic"
-         operator="over"
-         result="composite2" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -735,7 +704,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
