@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.74999999"
-     inkscape:cx="175.89023"
-     inkscape:cy="273.95366"
+     inkscape:zoom="0.375"
+     inkscape:cx="272.15217"
+     inkscape:cy="193.00609"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,12 +37,13 @@
      showborder="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:snap-global="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true">
     <sodipodi:guide
        id="guide2985"
        position="0,757.61441"
@@ -547,9 +548,9 @@
        style="fill:#66ff8c;fill-opacity:0.8974359;stroke:none" />
     <rect
        y="521.00513"
-       x="262.52533"
+       x="262.85867"
        height="247.31721"
-       width="262.02133"
+       width="261.68799"
        id="rect3011"
        style="fill:#ffff00;fill-opacity:0.89743593;stroke:none" />
     <rect
@@ -563,9 +564,9 @@
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
        y="343.86261"
-       x="262.75479"
+       x="262.85715"
        height="177.16536"
-       width="261.64627"
+       width="261.54391"
        id="rect3015"
        style="fill:#00ffff;fill-opacity:0.89743593;stroke:none" />
     <rect
@@ -597,20 +598,20 @@
        id="rect3025"
        style="fill:#ccffaa;fill-opacity:1;stroke:#fb0000;stroke-opacity:1" />
     <rect
-       y="963.85577"
-       x="388.72852"
-       height="88.600327"
-       width="134.90009"
+       y="963.85229"
+       x="388.72507"
+       height="87.772156"
+       width="134.907"
        id="rect3027"
-       style="fill:#d7d7f4;fill-opacity:1;stroke:#ff0909;stroke-width:1.48235321;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#d7d7f4;fill-opacity:1;stroke:#ff0909;stroke-width:1.4754467;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <rect
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
        style="fill:#ffdaff;fill-opacity:0.89743593;stroke:none"
        id="rect3029"
-       width="261.60294"
+       width="262.93628"
        height="177.21297"
-       x="1.2650017"
+       x="-0.068331696"
        y="697.52893" />
     <rect
        style="fill:#bdff04;fill-opacity:1;stroke:none"
