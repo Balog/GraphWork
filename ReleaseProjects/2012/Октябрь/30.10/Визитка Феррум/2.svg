@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8843187"
-     inkscape:cx="237.93856"
-     inkscape:cy="108.67514"
+     inkscape:cx="278.66204"
+     inkscape:cy="83.002205"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -92,6 +92,10 @@
        orientation="1,0"
        position="325.98425,72.705323"
        id="guide2999" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="23.350615,200.07231"
+       id="guide3022" />
   </sodipodi:namedview>
   <metadata
      id="metadata3021">
@@ -112,12 +116,11 @@
      transform="translate(0,-868.11019)">
     <g
        id="g3094"
-       transform="translate(-0.53069579,867.35538)"
-       style="fill:#ffff00">
+       transform="translate(-0.53069579,867.35538)">
       <path
          id="path3096"
          d="m 0,0 326.83465,0 0,186.12991 -326.83465,0 z"
-         style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <rect
